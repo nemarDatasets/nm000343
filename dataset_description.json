@@ -1,5 +1,5 @@
 {
-  "Name": "Hinss et al. 2021 — Mental workload EEG dataset",
+  "Name": "Hinss et al. 2021 — Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
   "BIDSVersion": "1.9.0",
   "HEDVersion": "8.4.0",
   "DatasetType": "derivative",
