@@ -1,51 +1,51 @@
 {
-	"Name": "Hinss2021",
-	"BIDSVersion": "1.9.0",
-	"HEDVersion": "8.4.0",
-	"DatasetType": "derivative",
-	"License": "CC-BY-SA-4.0",
-	"Authors": [
-		"Marcel F. Hinss",
-		"Emilie S. Jahanpour",
-		"Bertille Somon",
-		"Lou Pluchon",
-		"Fr\u00e9d\u00e9ric Dehais",
-		"Rapha\u00eblle N. Roy"
-	],
-	"Acknowledgements": "This research was supported in part by the ERASMUS program (which funded Mr Hinss' internship), and by ANITI (Artificial and Natural Intelligence Toulouse Institute), Toulouse, France.",
-	"HowToAcknowledge": "Please cite: Hinss et al. (2023). Open multi-session and multi-task EEG cognitive dataset for passive brain-computer interface applications. Scientific Data, 10, 85. https://doi.org/10.1038/s41597-022-01898-y",
-	"Funding": [
-		"ERASMUS program",
-		"ANITI (Artificial and Natural Intelligence Toulouse Institute)"
-	],
-	"EthicsApprovals": [
-		"Comit\u00e9 d'\u00c9thique de la Recherche (CER), Universit\u00e9 de Toulouse (CER number 2021-342)"
-	],
-	"ReferencesAndLinks": [
-		"https://doi.org/10.5281/zenodo.6874128"
-	],
-	"DatasetDOI": "doi:10.1038/s41597-022-01898-y",
-	"GeneratedBy": [
-		{
-			"CodeURL": "https://github.com/NeuroTechX/moabb",
-			"Name": "moabb",
-			"Description": "Mother of All BCI Benchmarks",
-			"Version": "1.5.0"
-		}
-	],
-	"SourceDatasets": [
-		{
-			"DOI": "10.1038/s41597-022-01898-y",
-			"URL": "https://doi.org/10.5281/zenodo.6874128"
-		}
-	],
-	"Keywords": [
-		"Healthy",
-		"Cognitive",
-		"Research",
-		"rstate",
-		"neuroergonomics",
-		"mental_workload_estimation"
-	],
-	"PublicationYear": 2023
+  "Name": "Hinss et al. 2021 — Mental workload EEG dataset",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-SA-4.0",
+  "Authors": [
+    "Marcel F. Hinss",
+    "Emilie S. Jahanpour",
+    "Bertille Somon",
+    "Lou Pluchon",
+    "Frédéric Dehais",
+    "Raphaëlle N. Roy"
+  ],
+  "Acknowledgements": "This research was supported in part by the ERASMUS program (which funded Mr Hinss' internship), and by ANITI (Artificial and Natural Intelligence Toulouse Institute), Toulouse, France.",
+  "HowToAcknowledge": "Please cite: Hinss et al. (2023). Open multi-session and multi-task EEG cognitive dataset for passive brain-computer interface applications. Scientific Data, 10, 85. https://doi.org/10.1038/s41597-022-01898-y",
+  "Funding": [
+    "ERASMUS program",
+    "ANITI (Artificial and Natural Intelligence Toulouse Institute)"
+  ],
+  "EthicsApprovals": [
+    "Comité d'Éthique de la Recherche (CER), Université de Toulouse (CER number 2021-342)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.6874128"
+  ],
+  "DatasetDOI": "doi:10.1038/s41597-022-01898-y",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.5.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.1038/s41597-022-01898-y",
+      "URL": "https://doi.org/10.5281/zenodo.6874128"
+    }
+  ],
+  "Keywords": [
+    "Healthy",
+    "Cognitive",
+    "Research",
+    "rstate",
+    "neuroergonomics",
+    "mental_workload_estimation"
+  ],
+  "PublicationYear": 2023
 }
