@@ -1,0 +1,96 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "enriched",
+  "authors": {
+    "Marcel F. Hinss": {
+      "orcid": "0000-0001-9977-4070"
+    },
+    "Emilie S. Jahanpour": {},
+    "Bertille Somon": {},
+    "Lou Pluchon": {},
+    "Frédéric Dehais": {},
+    "Raphaëlle N. Roy": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-022-01898-y",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.5281/zenodo.6874128",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000343",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000343",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "ERASMUS program"
+    },
+    {
+      "funder_name": "ANITI (Artificial and Natural Intelligence Toulouse Institute)"
+    },
+    {
+      "funder_name": "ANITI",
+      "award_title": "Artificial and Natural Intelligence Toulouse Institute"
+    }
+  ],
+  "title": "Hinss et al. 2021 — Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
+  "license": "CC-BY-SA-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "1.3 GB (31 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "This dataset comprises multi-session, multi-task EEG recordings from 15 healthy participants performing resting state and graded difficulty levels of the MATB-II task. Acquired at 500 Hz using 62 active electrodes, the dataset contains 90 trials per participant across two sessions and is designed to support passive brain-computer interface applications and mental workload estimation in neuroergonomic contexts.",
+  "methods_description": "EEG data were acquired using an ActiCHamp system (Brain Products GmbH) with 62 active Ag/AgCl electrodes in a standard 10-20 montage, referenced to Fpz, at a sampling rate of 500 Hz. Participants completed resting state and three difficulty levels of the MATB-II task (easy, medium, difficult) across two sessions, with 90 trials total per participant. Impedance was maintained below 25 kOhm, and ECG was recorded as an auxiliary channel.",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "mental workload"
+    },
+    {
+      "term": "neuroergonomics"
+    },
+    {
+      "term": "resting state"
+    },
+    {
+      "term": "cognitive load"
+    },
+    {
+      "term": "MATB-II"
+    },
+    {
+      "term": "passive BCI"
+    }
+  ],
+  "source_hash": "54e38225644b2ccb1eb54acf0cce024c35581bfcb3a83716815143ab55ec7f10"
+}
