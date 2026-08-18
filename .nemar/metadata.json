@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Hinss et al. 2021 — Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
-  "description": "This open-access EEG dataset comprises multi-session, multi-task recordings from 15 healthy participants performing resting state and graded cognitive tasks (easy, medium, difficult) using the MATB-II paradigm. Acquired with 62-channel EEG at 500 Hz sampling rate, the dataset is designed for passive brain-computer interface applications and neuroergonomic research, particularly mental workload estimation. The dataset includes 90 trials per participant across two sessions. Data are provided in raw, unpreprocessed format.",
-  "methods_description": "EEG data were acquired using a 62-channel ActiCHamp system (Brain Products GmbH) at 500 Hz sampling rate with active Ag/AgCl sensors referenced to Fpz. Standard 10-20 electrode montage was employed with impedance maintained below 25 kOhm. Participants completed two sessions involving resting state and three difficulty levels of the MATB-II task (easy, medium, difficult). Trial intervals were 2 seconds, and data were recorded in EEGLAB .set format.",
+  "description": "This open-access EEG dataset comprises multi-session, multi-task recordings from 15 healthy participants performing resting state and graded cognitive tasks (easy, medium, difficult) using the MATB-II paradigm. Acquired with 62-channel EEG at 500 Hz sampling rate, the dataset is designed for passive brain-computer interface applications and neuroergonomic research, particularly mental workload estimation. The dataset includes 90 trials per participant across two sessions in raw, unpreprocessed format.",
+  "methods_description": "EEG data were acquired from 15 healthy participants (mean age 23.9 years) using a 62-channel ActiCHamp system (Brain Products GmbH) at 500 Hz sampling rate with active Ag/AgCl sensors referenced to Fpz. The standard 10-20 montage was employed with impedance maintained below 25 kOhm. Participants completed two sessions involving resting state and three difficulty levels of the MATB-II task (easy, medium, difficult), yielding 90 trials total per participant. Trial intervals were set to [0, 2] seconds with a 50 Hz line frequency. Data are provided in raw, unpreprocessed format.",
   "license": "CC-BY-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -21,16 +21,18 @@
       "term": "EEG"
     },
     {
-      "term": "brain-computer interfaces"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
-      "term": "mental workload"
+      "term": "cognitive workload"
     },
     {
       "term": "neuroergonomics"
     },
     {
-      "term": "cognitive load"
+      "term": "mental workload estimation"
     },
     {
       "term": "resting state"
@@ -40,12 +42,6 @@
     },
     {
       "term": "MATB-II"
-    },
-    {
-      "term": "multi-session"
-    },
-    {
-      "term": "multi-task"
     }
   ],
   "related_identifiers": [
@@ -110,5 +106,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "be97083843a06d81f14ac98293681d0cb1f9d88fa010ae9cf6380641eade2899"
+  "source_hash": "356452477f0198c93e24527eeeb69805d94c3d26280a0f9edcf1f01c81d6af94"
 }
