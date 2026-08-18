@@ -14,1202 +14,1443 @@
   {
    "file": "P01/S1/eeg/alldata_sbj01_sess1_MATBdiff.set",
    "bytes": 18602984,
-   "sha256": "181d56bb27139456e76c3292cf0165793c80510b8f897e477123ec9d5a0b4f11"
+   "sha256": "181d56bb27139456e76c3292cf0165793c80510b8f897e477123ec9d5a0b4f11",
+   "subject": "1"
   },
   {
    "file": "P01/S1/eeg/alldata_sbj01_sess1_MATBeasy.set",
    "bytes": 18602984,
-   "sha256": "8ad55746212c988f869ef746461acef6e4ac389a071c44cfb8f5c05f951f37a9"
+   "sha256": "8ad55746212c988f869ef746461acef6e4ac389a071c44cfb8f5c05f951f37a9",
+   "subject": "1"
   },
   {
    "file": "P01/S1/eeg/alldata_sbj01_sess1_MATBmed.set",
    "bytes": 18602984,
-   "sha256": "a2a9ebd5e2231cfbd2c8db49b74a4bdb5e51fc7c21cfd27814685d40169fced1"
+   "sha256": "a2a9ebd5e2231cfbd2c8db49b74a4bdb5e51fc7c21cfd27814685d40169fced1",
+   "subject": "1"
   },
   {
    "file": "P01/S1/eeg/alldata_sbj01_sess1_RS.set",
    "bytes": 4000240,
-   "sha256": "b6fe394f6609c513fb194c538a75ded923be21d2631f4fd8ff87e6261d00d095"
+   "sha256": "b6fe394f6609c513fb194c538a75ded923be21d2631f4fd8ff87e6261d00d095",
+   "subject": "1"
   },
   {
    "file": "P01/S1/eeg/alldata_sbj01_sess1_RSraw.set",
    "bytes": 7819032,
-   "sha256": "79399647cccbc0f94f966bb70f41c37ba208d91a9e1445b3de1d492a70781692"
+   "sha256": "79399647cccbc0f94f966bb70f41c37ba208d91a9e1445b3de1d492a70781692",
+   "subject": "1"
   },
   {
    "file": "P01/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "c42bc54a33a7920bb481603549e4755f1fcc2d4abfb10e9536232364370e77ba"
+   "sha256": "c42bc54a33a7920bb481603549e4755f1fcc2d4abfb10e9536232364370e77ba",
+   "subject": "1"
   },
   {
    "file": "P01/S2/eeg/alldata_sbj01_sess2_MATBdiff.set",
    "bytes": 18601864,
-   "sha256": "1dab0cc000e0ab9b7f6271c22b50592a5f866ae977ddf14f0d23b2f4edcb56ca"
+   "sha256": "1dab0cc000e0ab9b7f6271c22b50592a5f866ae977ddf14f0d23b2f4edcb56ca",
+   "subject": "1"
   },
   {
    "file": "P01/S2/eeg/alldata_sbj01_sess2_MATBeasy.set",
    "bytes": 18601864,
-   "sha256": "ef979df50be5e3319ea75ff0899104b81198ec65ce4f4d2058f56b667df8822c"
+   "sha256": "ef979df50be5e3319ea75ff0899104b81198ec65ce4f4d2058f56b667df8822c",
+   "subject": "1"
   },
   {
    "file": "P01/S2/eeg/alldata_sbj01_sess2_MATBmed.set",
    "bytes": 18601864,
-   "sha256": "10cfc9d4b5c090bc518248027b073bd2e8c6bc7a49e9ba9c6d7cf15fc2cfac08"
+   "sha256": "10cfc9d4b5c090bc518248027b073bd2e8c6bc7a49e9ba9c6d7cf15fc2cfac08",
+   "subject": "1"
   },
   {
    "file": "P01/S2/eeg/alldata_sbj01_sess2_RS.set",
    "bytes": 3999120,
-   "sha256": "3ccd42e4f266756eaf5d587888569c0251002e665d772190d0c224ae1ddde0c1"
+   "sha256": "3ccd42e4f266756eaf5d587888569c0251002e665d772190d0c224ae1ddde0c1",
+   "subject": "1"
   },
   {
    "file": "P01/S2/eeg/alldata_sbj01_sess2_RSraw.set",
    "bytes": 7818160,
-   "sha256": "b6b44b36733cc116db60804232e2196a2661be71c50cdd20d30fa1e7541c920f"
+   "sha256": "b6b44b36733cc116db60804232e2196a2661be71c50cdd20d30fa1e7541c920f",
+   "subject": "1"
   },
   {
    "file": "P01/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "bc0512a31293aee0113514f03fa7252edbabc683fade419000d7bfcf45898f99"
+   "sha256": "bc0512a31293aee0113514f03fa7252edbabc683fade419000d7bfcf45898f99",
+   "subject": "1"
   },
   {
    "file": "P01/S3/eeg/alldata_sbj01_sess3_RS.set",
    "bytes": 3975496,
-   "sha256": "613b16c2e8cc921d48056700e667c6d7a727c5f68c74874bf22f52baf42dad72"
+   "sha256": "613b16c2e8cc921d48056700e667c6d7a727c5f68c74874bf22f52baf42dad72",
+   "subject": "1"
   },
   {
    "file": "P01/S3/eeg/alldata_sbj01_sess3_RSraw.set",
    "bytes": 7794536,
-   "sha256": "a7b485f4d2f866428a95178307385296bfe93e8843603c6e7f1ef841a0208907"
+   "sha256": "a7b485f4d2f866428a95178307385296bfe93e8843603c6e7f1ef841a0208907",
+   "subject": "1"
   },
   {
    "file": "P01/S3/eeg/testset_sbj01_sess3.set",
    "bytes": 55129984,
-   "sha256": "1a9fcd8582adf619d6f49d1e1db8851b161c2be540119bf1cddde10a55bf116e"
+   "sha256": "1a9fcd8582adf619d6f49d1e1db8851b161c2be540119bf1cddde10a55bf116e",
+   "subject": "1"
   },
   {
    "file": "P01/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "bede8f06a0a37ec8ad754d27cbe68d9f1761c73ea063a123db8fc3ee6ccba965"
+   "sha256": "bede8f06a0a37ec8ad754d27cbe68d9f1761c73ea063a123db8fc3ee6ccba965",
+   "subject": "1"
   },
   {
    "file": "P02/S1/eeg/alldata_sbj02_sess1_MATBdiff.set",
    "bytes": 18600000,
-   "sha256": "fe69516d28a880a5f42ccbdcbffb45be1a787e303d7daf6b6e227acbac59ec2a"
+   "sha256": "fe69516d28a880a5f42ccbdcbffb45be1a787e303d7daf6b6e227acbac59ec2a",
+   "subject": "2"
   },
   {
    "file": "P02/S1/eeg/alldata_sbj02_sess1_MATBeasy.set",
    "bytes": 18600000,
-   "sha256": "438531fd9507d81f57b5a09218ca29cc992bc8aa54894b12cfbe311880262380"
+   "sha256": "438531fd9507d81f57b5a09218ca29cc992bc8aa54894b12cfbe311880262380",
+   "subject": "2"
   },
   {
    "file": "P02/S1/eeg/alldata_sbj02_sess1_MATBmed.set",
    "bytes": 18600000,
-   "sha256": "bd5425e3c43e34d569bfc2d82698fc59c8ec0bf54fe02b985166267f8f7f5e80"
+   "sha256": "bd5425e3c43e34d569bfc2d82698fc59c8ec0bf54fe02b985166267f8f7f5e80",
+   "subject": "2"
   },
   {
    "file": "P02/S1/eeg/alldata_sbj02_sess1_RS.set",
    "bytes": 3997256,
-   "sha256": "8a6f8e88a11bcb44edda7cfc7692e3702bff2e32343001e9512efd2e105300c9"
+   "sha256": "8a6f8e88a11bcb44edda7cfc7692e3702bff2e32343001e9512efd2e105300c9",
+   "subject": "2"
   },
   {
    "file": "P02/S1/eeg/alldata_sbj02_sess1_RSraw.set",
    "bytes": 7816048,
-   "sha256": "aaf02273dd4544e50d9460658c5c8aff995f650388b27258ef08525fb35b81be"
+   "sha256": "aaf02273dd4544e50d9460658c5c8aff995f650388b27258ef08525fb35b81be",
+   "subject": "2"
   },
   {
    "file": "P02/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "cb7e3b4fe04abebe8f57abd737bc00b6e67418516ecf200e1907e8d5d5d950fc"
+   "sha256": "cb7e3b4fe04abebe8f57abd737bc00b6e67418516ecf200e1907e8d5d5d950fc",
+   "subject": "2"
   },
   {
    "file": "P02/S2/eeg/alldata_sbj02_sess2_MATBdiff.set",
    "bytes": 18599072,
-   "sha256": "1ac244ff9f929d26c71e528d109eed7d651129b200aab80d26e755eb53c3746d"
+   "sha256": "1ac244ff9f929d26c71e528d109eed7d651129b200aab80d26e755eb53c3746d",
+   "subject": "2"
   },
   {
    "file": "P02/S2/eeg/alldata_sbj02_sess2_MATBeasy.set",
    "bytes": 18599072,
-   "sha256": "0f39d9bb37b6a7764420166f4c2a30011545ff28eacc2c49fb936314e33bcd15"
+   "sha256": "0f39d9bb37b6a7764420166f4c2a30011545ff28eacc2c49fb936314e33bcd15",
+   "subject": "2"
   },
   {
    "file": "P02/S2/eeg/alldata_sbj02_sess2_MATBmed.set",
    "bytes": 18599072,
-   "sha256": "ad3bf9f090e88c9574eeb23c7b9044054833ab4e77fea83652b0af5e823c3a75"
+   "sha256": "ad3bf9f090e88c9574eeb23c7b9044054833ab4e77fea83652b0af5e823c3a75",
+   "subject": "2"
   },
   {
    "file": "P02/S2/eeg/alldata_sbj02_sess2_RS.set",
    "bytes": 3996328,
-   "sha256": "a6b18556a85461515c1dfe88984830bb22f433e4fd3e1dccaeec3ad11091800a"
+   "sha256": "a6b18556a85461515c1dfe88984830bb22f433e4fd3e1dccaeec3ad11091800a",
+   "subject": "2"
   },
   {
    "file": "P02/S2/eeg/alldata_sbj02_sess2_RSraw.set",
    "bytes": 7815368,
-   "sha256": "fbc6cbc85ba653ebe8e8d5072dbf0939ad21ec9fbd94a44a10f7d77411a70c16"
+   "sha256": "fbc6cbc85ba653ebe8e8d5072dbf0939ad21ec9fbd94a44a10f7d77411a70c16",
+   "subject": "2"
   },
   {
    "file": "P02/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "f89c54d22cb50812b744ba5850d8b4857999f299492b4e07814aa77b90b2048e"
+   "sha256": "f89c54d22cb50812b744ba5850d8b4857999f299492b4e07814aa77b90b2048e",
+   "subject": "2"
   },
   {
    "file": "P02/S3/eeg/alldata_sbj02_sess3_RS.set",
    "bytes": 3978800,
-   "sha256": "0b0136432a482bfed0c054e1f86f715d237f7bd074df767731fa11353fbb5d4f"
+   "sha256": "0b0136432a482bfed0c054e1f86f715d237f7bd074df767731fa11353fbb5d4f",
+   "subject": "2"
   },
   {
    "file": "P02/S3/eeg/alldata_sbj02_sess3_RSraw.set",
    "bytes": 7797840,
-   "sha256": "6c117d6556ef7df0722ca7d6c303a221b3bd595ec536557db2b3da8f01e6178d"
+   "sha256": "6c117d6556ef7df0722ca7d6c303a221b3bd595ec536557db2b3da8f01e6178d",
+   "subject": "2"
   },
   {
    "file": "P02/S3/eeg/testset_sbj02_sess3.set",
    "bytes": 55133288,
-   "sha256": "b3c4f16735a9502c1b43ec6c89187227d5ad9b0ef26b5d04f13e9eccb941a36c"
+   "sha256": "b3c4f16735a9502c1b43ec6c89187227d5ad9b0ef26b5d04f13e9eccb941a36c",
+   "subject": "2"
   },
   {
    "file": "P02/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "fa60694ec46d5cae507aeb39dc257e6063b1a0adeb74a5bf08b7c0abbb6518ac"
+   "sha256": "fa60694ec46d5cae507aeb39dc257e6063b1a0adeb74a5bf08b7c0abbb6518ac",
+   "subject": "2"
   },
   {
    "file": "P03/S1/eeg/alldata_sbj03_sess1_MATBdiff.set",
    "bytes": 18604088,
-   "sha256": "767d4100aea42706a53a8ab3dd8a5c7933cb11aa4ba96d524b21247d7a9f4f8e"
+   "sha256": "767d4100aea42706a53a8ab3dd8a5c7933cb11aa4ba96d524b21247d7a9f4f8e",
+   "subject": "3"
   },
   {
    "file": "P03/S1/eeg/alldata_sbj03_sess1_MATBeasy.set",
    "bytes": 18604088,
-   "sha256": "ec30876636a24da0f5b381255810d338384b443a18efcde849c330b7aae36431"
+   "sha256": "ec30876636a24da0f5b381255810d338384b443a18efcde849c330b7aae36431",
+   "subject": "3"
   },
   {
    "file": "P03/S1/eeg/alldata_sbj03_sess1_MATBmed.set",
    "bytes": 18604088,
-   "sha256": "a6404f82283af8bd397fa596a784cffa2695f23fb71316fb8004ec4e78b7d5c5"
+   "sha256": "a6404f82283af8bd397fa596a784cffa2695f23fb71316fb8004ec4e78b7d5c5",
+   "subject": "3"
   },
   {
    "file": "P03/S1/eeg/alldata_sbj03_sess1_RS.set",
    "bytes": 4001344,
-   "sha256": "16bb9ec68dbedb0312e1a1b245cbf8734e20254944af3864c2150eeacd0674d5"
+   "sha256": "16bb9ec68dbedb0312e1a1b245cbf8734e20254944af3864c2150eeacd0674d5",
+   "subject": "3"
   },
   {
    "file": "P03/S1/eeg/alldata_sbj03_sess1_RSraw.set",
    "bytes": 7820384,
-   "sha256": "882853820f61392730890031b737fede0598fc4f155c239315961846d5a624c7"
+   "sha256": "882853820f61392730890031b737fede0598fc4f155c239315961846d5a624c7",
+   "subject": "3"
   },
   {
    "file": "P03/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "2881ce76cc1c9d2f9934ba5c85b86f4cd8b3ae7d3e5e1e06267592175f2e92af"
+   "sha256": "2881ce76cc1c9d2f9934ba5c85b86f4cd8b3ae7d3e5e1e06267592175f2e92af",
+   "subject": "3"
   },
   {
    "file": "P03/S2/eeg/alldata_sbj03_sess2_MATBdiff.set",
    "bytes": 18589528,
-   "sha256": "62520bff558ab1f39c90591cd2f974d7696a59100c5b695b4d889168b822e091"
+   "sha256": "62520bff558ab1f39c90591cd2f974d7696a59100c5b695b4d889168b822e091",
+   "subject": "3"
   },
   {
    "file": "P03/S2/eeg/alldata_sbj03_sess2_MATBeasy.set",
    "bytes": 18589528,
-   "sha256": "0bcd7f593a9544bffe7350866a6a4511396593bb6a6321cf8301489ec239d6ca"
+   "sha256": "0bcd7f593a9544bffe7350866a6a4511396593bb6a6321cf8301489ec239d6ca",
+   "subject": "3"
   },
   {
    "file": "P03/S2/eeg/alldata_sbj03_sess2_MATBmed.set",
    "bytes": 18589528,
-   "sha256": "3c6b0bc4aa16f5797f8ac5aa042affbc12e43999047f23296ae3cc1a2792b235"
+   "sha256": "3c6b0bc4aa16f5797f8ac5aa042affbc12e43999047f23296ae3cc1a2792b235",
+   "subject": "3"
   },
   {
    "file": "P03/S2/eeg/alldata_sbj03_sess2_RS.set",
    "bytes": 3986784,
-   "sha256": "cc1b220e52084218d45c1ae6832dc26a14030a615c52790d14a195c46269a20d"
+   "sha256": "cc1b220e52084218d45c1ae6832dc26a14030a615c52790d14a195c46269a20d",
+   "subject": "3"
   },
   {
    "file": "P03/S2/eeg/alldata_sbj03_sess2_RSraw.set",
    "bytes": 7805824,
-   "sha256": "e64f62be481f251d4df916493c4423cf5fa739a94a6ddc1faa4de6c1523a59a6"
+   "sha256": "e64f62be481f251d4df916493c4423cf5fa739a94a6ddc1faa4de6c1523a59a6",
+   "subject": "3"
   },
   {
    "file": "P03/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "0941b5dbd8052ed77b3fc79049b05ac5bfd2ea63d7dadaa23cb7c504da27260b"
+   "sha256": "0941b5dbd8052ed77b3fc79049b05ac5bfd2ea63d7dadaa23cb7c504da27260b",
+   "subject": "3"
   },
   {
    "file": "P03/S3/eeg/alldata_sbj03_sess3_RS.set",
    "bytes": 3981712,
-   "sha256": "f3c63459be59e1c6c776042f667bf817b230fbe91ba623c8513fa8f4763447ed"
+   "sha256": "f3c63459be59e1c6c776042f667bf817b230fbe91ba623c8513fa8f4763447ed",
+   "subject": "3"
   },
   {
    "file": "P03/S3/eeg/alldata_sbj03_sess3_RSraw.set",
    "bytes": 7800504,
-   "sha256": "1d2d79d5253382ffafe8de686ca707da12c2d3331f7dc31e15152d1d4a1c0398"
+   "sha256": "1d2d79d5253382ffafe8de686ca707da12c2d3331f7dc31e15152d1d4a1c0398",
+   "subject": "3"
   },
   {
    "file": "P03/S3/eeg/testset_sbj03_sess3.set",
    "bytes": 55136200,
-   "sha256": "2c74d59857011286f97901294f9be7270c3c24547456270bc3acade042ce59c8"
+   "sha256": "2c74d59857011286f97901294f9be7270c3c24547456270bc3acade042ce59c8",
+   "subject": "3"
   },
   {
    "file": "P03/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "ebcfccf48e23cf394927c3e1e05e297a191276604317c01d4b404badc7529022"
+   "sha256": "ebcfccf48e23cf394927c3e1e05e297a191276604317c01d4b404badc7529022",
+   "subject": "3"
   },
   {
    "file": "P04/S1/eeg/alldata_sbj04_sess1_MATBdiff.set",
    "bytes": 18601496,
-   "sha256": "81e1738b4b7f752b0a2be07bcf9fe715870dd84510a4fb4407e9e94a57874463"
+   "sha256": "81e1738b4b7f752b0a2be07bcf9fe715870dd84510a4fb4407e9e94a57874463",
+   "subject": "4"
   },
   {
    "file": "P04/S1/eeg/alldata_sbj04_sess1_MATBeasy.set",
    "bytes": 18601496,
-   "sha256": "e9817aba4c59fdcdc9a1ab47113818e19703e30cfbe6b03f13eb7e3e12a370e6"
+   "sha256": "e9817aba4c59fdcdc9a1ab47113818e19703e30cfbe6b03f13eb7e3e12a370e6",
+   "subject": "4"
   },
   {
    "file": "P04/S1/eeg/alldata_sbj04_sess1_MATBmed.set",
    "bytes": 18601496,
-   "sha256": "6ac440b2989bd488b0159656740adee64f14c9a096de207e73564e3dd5367f77"
+   "sha256": "6ac440b2989bd488b0159656740adee64f14c9a096de207e73564e3dd5367f77",
+   "subject": "4"
   },
   {
    "file": "P04/S1/eeg/alldata_sbj04_sess1_RS.set",
    "bytes": 3998752,
-   "sha256": "a98ddbe9ebd844bced3f6e20de209a19394d499be1511a1e2494bac447de9462"
+   "sha256": "a98ddbe9ebd844bced3f6e20de209a19394d499be1511a1e2494bac447de9462",
+   "subject": "4"
   },
   {
    "file": "P04/S1/eeg/alldata_sbj04_sess1_RSraw.set",
    "bytes": 7817792,
-   "sha256": "123a7a874c7de41ec6f8f30a9bf31c4c899073a248d5e60719da99f88510442c"
+   "sha256": "123a7a874c7de41ec6f8f30a9bf31c4c899073a248d5e60719da99f88510442c",
+   "subject": "4"
   },
   {
    "file": "P04/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "827827350a99d0aadb6c9e03661c69d112b053fab3e42628f459d63f32699d8c"
+   "sha256": "827827350a99d0aadb6c9e03661c69d112b053fab3e42628f459d63f32699d8c",
+   "subject": "4"
   },
   {
    "file": "P04/S2/eeg/alldata_sbj04_sess2_MATBdiff.set",
    "bytes": 18577984,
-   "sha256": "2111b670312f33f8fcb014e9c35e321056958d6ff24e905c74a515207d72e3e9"
+   "sha256": "2111b670312f33f8fcb014e9c35e321056958d6ff24e905c74a515207d72e3e9",
+   "subject": "4"
   },
   {
    "file": "P04/S2/eeg/alldata_sbj04_sess2_MATBeasy.set",
    "bytes": 18577984,
-   "sha256": "ebfd41c67b5fca2ab558bbfbd1451f764838d07c2ed31c26bf99c12fa2c45309"
+   "sha256": "ebfd41c67b5fca2ab558bbfbd1451f764838d07c2ed31c26bf99c12fa2c45309",
+   "subject": "4"
   },
   {
    "file": "P04/S2/eeg/alldata_sbj04_sess2_MATBmed.set",
    "bytes": 18577984,
-   "sha256": "706804cbf01725941e7599e1d17cfc57daf576b3594a5fd18d993591fccb04c1"
+   "sha256": "706804cbf01725941e7599e1d17cfc57daf576b3594a5fd18d993591fccb04c1",
+   "subject": "4"
   },
   {
    "file": "P04/S2/eeg/alldata_sbj04_sess2_RS.set",
    "bytes": 3975240,
-   "sha256": "7c4820bff636dd7b7d5883b9754f9f37505ce53f8960ec33f2d39c244c098d4a"
+   "sha256": "7c4820bff636dd7b7d5883b9754f9f37505ce53f8960ec33f2d39c244c098d4a",
+   "subject": "4"
   },
   {
    "file": "P04/S2/eeg/alldata_sbj04_sess2_RSraw.set",
    "bytes": 7794280,
-   "sha256": "a6c6208c4d4b21fcc05d259b317e4c3dd856f535131f59e1ed096e2534470b50"
+   "sha256": "a6c6208c4d4b21fcc05d259b317e4c3dd856f535131f59e1ed096e2534470b50",
+   "subject": "4"
   },
   {
    "file": "P04/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "403f31f97d81d5cd590e6815f6b26e321771c8c86123f2fb32358c29d585379a"
+   "sha256": "403f31f97d81d5cd590e6815f6b26e321771c8c86123f2fb32358c29d585379a",
+   "subject": "4"
   },
   {
    "file": "P04/S3/eeg/alldata_sbj04_sess3_RS.set",
    "bytes": 3978968,
-   "sha256": "bbe206d1ae3e022aec56d5ecba6c95a00f5ddbf8de29d03b7211d9c9e60f4058"
+   "sha256": "bbe206d1ae3e022aec56d5ecba6c95a00f5ddbf8de29d03b7211d9c9e60f4058",
+   "subject": "4"
   },
   {
    "file": "P04/S3/eeg/alldata_sbj04_sess3_RSraw.set",
    "bytes": 7798008,
-   "sha256": "4b5baf440f520433f46fe4ddfc4408377917e7768d44cfa561cf37ee15beb8e5"
+   "sha256": "4b5baf440f520433f46fe4ddfc4408377917e7768d44cfa561cf37ee15beb8e5",
+   "subject": "4"
   },
   {
    "file": "P04/S3/eeg/testset_sbj04_sess3.set",
    "bytes": 55133456,
-   "sha256": "89e9c913653bc59269529ae0a9da59de4979bf5f81983a3f2fc6039cf3ae4664"
+   "sha256": "89e9c913653bc59269529ae0a9da59de4979bf5f81983a3f2fc6039cf3ae4664",
+   "subject": "4"
   },
   {
    "file": "P04/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "86d5a1ee37fefd72e1b12bcb9f61e5698c70281a003af325acffcd0e2ad77c3d"
+   "sha256": "86d5a1ee37fefd72e1b12bcb9f61e5698c70281a003af325acffcd0e2ad77c3d",
+   "subject": "4"
   },
   {
    "file": "P05/S1/eeg/alldata_sbj05_sess1_MATBdiff.set",
    "bytes": 18632680,
-   "sha256": "1f072f8443c0c7f3a2100d1438e058c4c2e14e26b012cdb84a83a7ede367b97d"
+   "sha256": "1f072f8443c0c7f3a2100d1438e058c4c2e14e26b012cdb84a83a7ede367b97d",
+   "subject": "5"
   },
   {
    "file": "P05/S1/eeg/alldata_sbj05_sess1_MATBeasy.set",
    "bytes": 18632680,
-   "sha256": "467d44cbd5e562a17fa92c37eb2e9ea6c03710d5a034163e4409e4942574f055"
+   "sha256": "467d44cbd5e562a17fa92c37eb2e9ea6c03710d5a034163e4409e4942574f055",
+   "subject": "5"
   },
   {
    "file": "P05/S1/eeg/alldata_sbj05_sess1_MATBmed.set",
    "bytes": 18632680,
-   "sha256": "c71333534e88f04b784680aaeb19d25bfcc4fd3f8f09d76a3377fc3f05c68569"
+   "sha256": "c71333534e88f04b784680aaeb19d25bfcc4fd3f8f09d76a3377fc3f05c68569",
+   "subject": "5"
   },
   {
    "file": "P05/S1/eeg/alldata_sbj05_sess1_RS.set",
    "bytes": 4029936,
-   "sha256": "10c01d13a2839a5d47fc32667e29e8c44802190d47403a14b9d5961672879611"
+   "sha256": "10c01d13a2839a5d47fc32667e29e8c44802190d47403a14b9d5961672879611",
+   "subject": "5"
   },
   {
    "file": "P05/S1/eeg/alldata_sbj05_sess1_RSraw.set",
    "bytes": 7848976,
-   "sha256": "652758834c44dd08ba62e0a3c613c2de4e937baec56058fc3257de1a032330fb"
+   "sha256": "652758834c44dd08ba62e0a3c613c2de4e937baec56058fc3257de1a032330fb",
+   "subject": "5"
   },
   {
    "file": "P05/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "1ec8d7659fb7a7624426592277cce9994e1617438d2a1d365229f7a335bf06d2"
+   "sha256": "1ec8d7659fb7a7624426592277cce9994e1617438d2a1d365229f7a335bf06d2",
+   "subject": "5"
   },
   {
    "file": "P05/S2/eeg/alldata_sbj05_sess2_MATBdiff.set",
    "bytes": 18597088,
-   "sha256": "4f464509d9f3a541264c586ab7964605bca4d71845db471b65ee810b3d71e302"
+   "sha256": "4f464509d9f3a541264c586ab7964605bca4d71845db471b65ee810b3d71e302",
+   "subject": "5"
   },
   {
    "file": "P05/S2/eeg/alldata_sbj05_sess2_MATBeasy.set",
    "bytes": 18597088,
-   "sha256": "10f21a5931203752d37c335102fbe6e79567a48ae831d5f051a853f129ce6647"
+   "sha256": "10f21a5931203752d37c335102fbe6e79567a48ae831d5f051a853f129ce6647",
+   "subject": "5"
   },
   {
    "file": "P05/S2/eeg/alldata_sbj05_sess2_MATBmed.set",
    "bytes": 18597088,
-   "sha256": "2b0ecf9cc9da3355a812d11b4afe7656218f33899f81e334f1d951a513e7e64b"
+   "sha256": "2b0ecf9cc9da3355a812d11b4afe7656218f33899f81e334f1d951a513e7e64b",
+   "subject": "5"
   },
   {
    "file": "P05/S2/eeg/alldata_sbj05_sess2_RS.set",
    "bytes": 3801872,
-   "sha256": "d58c39820ba2d6740dc2682b27f9144d6d36bb7dea037fe530ed0d607484f74f"
+   "sha256": "d58c39820ba2d6740dc2682b27f9144d6d36bb7dea037fe530ed0d607484f74f",
+   "subject": "5"
   },
   {
    "file": "P05/S2/eeg/alldata_sbj05_sess2_RSraw.set",
    "bytes": 7620664,
-   "sha256": "413be649938cea20dc0f6cb50bd941f270b5f90d6f660b49ad55159e48424db9"
+   "sha256": "413be649938cea20dc0f6cb50bd941f270b5f90d6f660b49ad55159e48424db9",
+   "subject": "5"
   },
   {
    "file": "P05/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "846bbd0cf52b320322aede01ee58349a756681c63bdf3c2985440d98d85d95ef"
+   "sha256": "846bbd0cf52b320322aede01ee58349a756681c63bdf3c2985440d98d85d95ef",
+   "subject": "5"
   },
   {
    "file": "P05/S3/eeg/alldata_sbj05_sess3_RS.set",
    "bytes": 4015336,
-   "sha256": "c8273434e31c46af179a42c2fb69a21b0ccf29f8a9b72197761c0f9d5bd3ca14"
+   "sha256": "c8273434e31c46af179a42c2fb69a21b0ccf29f8a9b72197761c0f9d5bd3ca14",
+   "subject": "5"
   },
   {
    "file": "P05/S3/eeg/alldata_sbj05_sess3_RSraw.set",
    "bytes": 7834376,
-   "sha256": "772e7c6861160b17fab845c667478695610f987254007c1dfe88eab55492c517"
+   "sha256": "772e7c6861160b17fab845c667478695610f987254007c1dfe88eab55492c517",
+   "subject": "5"
   },
   {
    "file": "P05/S3/eeg/testset_sbj05_sess3.set",
    "bytes": 55169824,
-   "sha256": "4e95741a195e16c99f091abec57acbb67001c33dd6a614664709680c77827db4"
+   "sha256": "4e95741a195e16c99f091abec57acbb67001c33dd6a614664709680c77827db4",
+   "subject": "5"
   },
   {
    "file": "P05/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "d72041b168a1612a5c899b2f9989ff56e62736a7a2f17f9043d48907e01512ad"
+   "sha256": "d72041b168a1612a5c899b2f9989ff56e62736a7a2f17f9043d48907e01512ad",
+   "subject": "5"
   },
   {
    "file": "P06/S1/eeg/alldata_sbj06_sess1_MATBdiff.set",
    "bytes": 18626576,
-   "sha256": "45938d441ab6e828a5f9c25fc5a2985502f10ed3378a953f64bd2ab1dfe20449"
+   "sha256": "45938d441ab6e828a5f9c25fc5a2985502f10ed3378a953f64bd2ab1dfe20449",
+   "subject": "6"
   },
   {
    "file": "P06/S1/eeg/alldata_sbj06_sess1_MATBeasy.set",
    "bytes": 18626576,
-   "sha256": "3cfd56eaaf451c5060886b85e2c9bac379356548613119e7adb6566caaeaea69"
+   "sha256": "3cfd56eaaf451c5060886b85e2c9bac379356548613119e7adb6566caaeaea69",
+   "subject": "6"
   },
   {
    "file": "P06/S1/eeg/alldata_sbj06_sess1_MATBmed.set",
    "bytes": 18626576,
-   "sha256": "ea1d4258745f8efd1ce0e42517a0d87baaccd7e128e8ba370078d2556b7a6e09"
+   "sha256": "ea1d4258745f8efd1ce0e42517a0d87baaccd7e128e8ba370078d2556b7a6e09",
+   "subject": "6"
   },
   {
    "file": "P06/S1/eeg/alldata_sbj06_sess1_RS.set",
    "bytes": 4023832,
-   "sha256": "a1570d5079381c0bae02d04112fb95ac47a16d9dddb874852783ab22a3db30df"
+   "sha256": "a1570d5079381c0bae02d04112fb95ac47a16d9dddb874852783ab22a3db30df",
+   "subject": "6"
   },
   {
    "file": "P06/S1/eeg/alldata_sbj06_sess1_RSraw.set",
    "bytes": 7842624,
-   "sha256": "fd8ca81e39ab5c39d4b788b332d5bcb2f8cfa6a8baad8b8e4c266268a9e41483"
+   "sha256": "fd8ca81e39ab5c39d4b788b332d5bcb2f8cfa6a8baad8b8e4c266268a9e41483",
+   "subject": "6"
   },
   {
    "file": "P06/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "0c20b161643f3847036c6dd02f152682f576f8e602ad84093fa5ec7fe5a253e1"
+   "sha256": "0c20b161643f3847036c6dd02f152682f576f8e602ad84093fa5ec7fe5a253e1",
+   "subject": "6"
   },
   {
    "file": "P06/S2/eeg/alldata_sbj06_sess2_MATBdiff.set",
    "bytes": 18598296,
-   "sha256": "1b2f92d7bb8a7420b624ce497f6c6f3c93d608ba3681c97df3f1f1a1884aa247"
+   "sha256": "1b2f92d7bb8a7420b624ce497f6c6f3c93d608ba3681c97df3f1f1a1884aa247",
+   "subject": "6"
   },
   {
    "file": "P06/S2/eeg/alldata_sbj06_sess2_MATBeasy.set",
    "bytes": 18598296,
-   "sha256": "253b0f760d51ef19f02edd1c374e712ff94606ca4ffd889a146303be96f076d2"
+   "sha256": "253b0f760d51ef19f02edd1c374e712ff94606ca4ffd889a146303be96f076d2",
+   "subject": "6"
   },
   {
    "file": "P06/S2/eeg/alldata_sbj06_sess2_MATBmed.set",
    "bytes": 18598296,
-   "sha256": "b14e770f1aed155d5f241f8dda692547c18e50776e5d3f729afec8a5c8c85db5"
+   "sha256": "b14e770f1aed155d5f241f8dda692547c18e50776e5d3f729afec8a5c8c85db5",
+   "subject": "6"
   },
   {
    "file": "P06/S2/eeg/alldata_sbj06_sess2_RS.set",
    "bytes": 3995552,
-   "sha256": "2c2df9d1975206600ef75746aa5ac83c0f7504fe7d1bc4f84d8362b9a66067db"
+   "sha256": "2c2df9d1975206600ef75746aa5ac83c0f7504fe7d1bc4f84d8362b9a66067db",
+   "subject": "6"
   },
   {
    "file": "P06/S2/eeg/alldata_sbj06_sess2_RSraw.set",
    "bytes": 7814592,
-   "sha256": "3a7441a789d1ea3a93d6ef1bcded2c76ab752c4d6f6873ef13767a83491b905e"
+   "sha256": "3a7441a789d1ea3a93d6ef1bcded2c76ab752c4d6f6873ef13767a83491b905e",
+   "subject": "6"
   },
   {
    "file": "P06/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "dd0a2ad4fb76e31b861e97d765e28b72067968764fdae69c6f955c0bfd19a76c"
+   "sha256": "dd0a2ad4fb76e31b861e97d765e28b72067968764fdae69c6f955c0bfd19a76c",
+   "subject": "6"
   },
   {
    "file": "P06/S3/eeg/alldata_sbj06_sess3_RS.set",
    "bytes": 3994544,
-   "sha256": "75519490e720d61ebe3809618ef31183213c6bd6398ba3f0a93cab43cd611c37"
+   "sha256": "75519490e720d61ebe3809618ef31183213c6bd6398ba3f0a93cab43cd611c37",
+   "subject": "6"
   },
   {
    "file": "P06/S3/eeg/alldata_sbj06_sess3_RSraw.set",
    "bytes": 7813584,
-   "sha256": "a9195cce772a6f8c1781554a7046ec3c719bc56612ccc23f2cf4c924e0080836"
+   "sha256": "a9195cce772a6f8c1781554a7046ec3c719bc56612ccc23f2cf4c924e0080836",
+   "subject": "6"
   },
   {
    "file": "P06/S3/eeg/testset_sbj06_sess3.set",
    "bytes": 55149032,
-   "sha256": "266877ffd99f9da0a89bae83c62329143103011617f5c57db38c60bd7bb82103"
+   "sha256": "266877ffd99f9da0a89bae83c62329143103011617f5c57db38c60bd7bb82103",
+   "subject": "6"
   },
   {
    "file": "P06/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "05c6e2df0cbb0221f1f738f9813673c84a7b55a7338243f87cbb0d983975f17f"
+   "sha256": "05c6e2df0cbb0221f1f738f9813673c84a7b55a7338243f87cbb0d983975f17f",
+   "subject": "6"
   },
   {
    "file": "P07/S1/eeg/alldata_sbj07_sess1_MATBdiff.set",
    "bytes": 18590360,
-   "sha256": "0c382c2434df6561a1664a0d555e746d533574a97eb04851d755149c79f7ccee"
+   "sha256": "0c382c2434df6561a1664a0d555e746d533574a97eb04851d755149c79f7ccee",
+   "subject": "7"
   },
   {
    "file": "P07/S1/eeg/alldata_sbj07_sess1_MATBeasy.set",
    "bytes": 18590360,
-   "sha256": "6b0664e21a8454a5697eaccf234ec288b04ecb5573be1a2c514e73f16d6b19eb"
+   "sha256": "6b0664e21a8454a5697eaccf234ec288b04ecb5573be1a2c514e73f16d6b19eb",
+   "subject": "7"
   },
   {
    "file": "P07/S1/eeg/alldata_sbj07_sess1_MATBmed.set",
    "bytes": 18590360,
-   "sha256": "80112464a3aa21a2b6db69e370f3b55b081b7e1676dbf6dc859756e8052bc1b2"
+   "sha256": "80112464a3aa21a2b6db69e370f3b55b081b7e1676dbf6dc859756e8052bc1b2",
+   "subject": "7"
   },
   {
    "file": "P07/S1/eeg/alldata_sbj07_sess1_RS.set",
    "bytes": 3987616,
-   "sha256": "b66b4d8dc2af78033efb2855d7d4d8bc2487d0f85d54dcbe531c212782aa6fa6"
+   "sha256": "b66b4d8dc2af78033efb2855d7d4d8bc2487d0f85d54dcbe531c212782aa6fa6",
+   "subject": "7"
   },
   {
    "file": "P07/S1/eeg/alldata_sbj07_sess1_RSraw.set",
    "bytes": 7806656,
-   "sha256": "e9ec605e83d4bca3ed14c71e14eaca6d4393cdf0624513e9a718e81fc58afe4b"
+   "sha256": "e9ec605e83d4bca3ed14c71e14eaca6d4393cdf0624513e9a718e81fc58afe4b",
+   "subject": "7"
   },
   {
    "file": "P07/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "01904c2bc315f1c738df1b1cf0ad197d85e86d25d2cc901fd0a87554a8220ffc"
+   "sha256": "01904c2bc315f1c738df1b1cf0ad197d85e86d25d2cc901fd0a87554a8220ffc",
+   "subject": "7"
   },
   {
    "file": "P07/S2/eeg/alldata_sbj07_sess2_MATBdiff.set",
    "bytes": 18583688,
-   "sha256": "d0773fdcb6a28a30661a2b3106b23191478a5977f970e89a9a3c688199ea7549"
+   "sha256": "d0773fdcb6a28a30661a2b3106b23191478a5977f970e89a9a3c688199ea7549",
+   "subject": "7"
   },
   {
    "file": "P07/S2/eeg/alldata_sbj07_sess2_MATBeasy.set",
    "bytes": 18583688,
-   "sha256": "60f47abcbff5c6acc8ab87dfd82341e57dc07397abfae6e7acecf8d7e2c0d504"
+   "sha256": "60f47abcbff5c6acc8ab87dfd82341e57dc07397abfae6e7acecf8d7e2c0d504",
+   "subject": "7"
   },
   {
    "file": "P07/S2/eeg/alldata_sbj07_sess2_MATBmed.set",
    "bytes": 18583688,
-   "sha256": "3706d7454142003ab1e9039a7a420d9044fe893c116d92f6d05abf060798e83f"
+   "sha256": "3706d7454142003ab1e9039a7a420d9044fe893c116d92f6d05abf060798e83f",
+   "subject": "7"
   },
   {
    "file": "P07/S2/eeg/alldata_sbj07_sess2_RS.set",
    "bytes": 3980944,
-   "sha256": "86aaf4e2fb77f519ad69b47e6421f6cd9f3fd6d4ef8fb1d9de27d42c0796027c"
+   "sha256": "86aaf4e2fb77f519ad69b47e6421f6cd9f3fd6d4ef8fb1d9de27d42c0796027c",
+   "subject": "7"
   },
   {
    "file": "P07/S2/eeg/alldata_sbj07_sess2_RSraw.set",
    "bytes": 7799984,
-   "sha256": "27788b5497503378b6ebbc1d08a00953c34883ce7a5755cdfa460c110ee175d6"
+   "sha256": "27788b5497503378b6ebbc1d08a00953c34883ce7a5755cdfa460c110ee175d6",
+   "subject": "7"
   },
   {
    "file": "P07/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "155f59d9b69637849d1771dba51b17a14adc81328a6428395e9396562993130e"
+   "sha256": "155f59d9b69637849d1771dba51b17a14adc81328a6428395e9396562993130e",
+   "subject": "7"
   },
   {
    "file": "P07/S3/eeg/alldata_sbj07_sess3_RS.set",
    "bytes": 3995904,
-   "sha256": "7eae8395f7ed8c705e1f656f71c9c4e8ffbe2d609c5c39da1f596425c12adbb8"
+   "sha256": "7eae8395f7ed8c705e1f656f71c9c4e8ffbe2d609c5c39da1f596425c12adbb8",
+   "subject": "7"
   },
   {
    "file": "P07/S3/eeg/alldata_sbj07_sess3_RSraw.set",
    "bytes": 7814696,
-   "sha256": "17396c27b943fe6090b1c5adc51a48161224a7152be0aecc2d70bf473928efbd"
+   "sha256": "17396c27b943fe6090b1c5adc51a48161224a7152be0aecc2d70bf473928efbd",
+   "subject": "7"
   },
   {
    "file": "P07/S3/eeg/testset_sbj07_sess3.set",
    "bytes": 55150392,
-   "sha256": "4fc0ec137d35260ba02b0dc1b22db72d182dd4f1040a3bfadb64bfc23a8ab6f5"
+   "sha256": "4fc0ec137d35260ba02b0dc1b22db72d182dd4f1040a3bfadb64bfc23a8ab6f5",
+   "subject": "7"
   },
   {
    "file": "P07/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "75d5e40efb04c291c82c444383169f6c3d97c803fc5b82eee9ec3d223811a05b"
+   "sha256": "75d5e40efb04c291c82c444383169f6c3d97c803fc5b82eee9ec3d223811a05b",
+   "subject": "7"
   },
   {
    "file": "P08/S1/eeg/alldata_sbj08_sess1_MATBdiff.set",
    "bytes": 18565176,
-   "sha256": "f1944695fca151c62c2b48ed2ffb3b705f668a4c77878e64d679bd5a473f8a20"
+   "sha256": "f1944695fca151c62c2b48ed2ffb3b705f668a4c77878e64d679bd5a473f8a20",
+   "subject": "8"
   },
   {
    "file": "P08/S1/eeg/alldata_sbj08_sess1_MATBeasy.set",
    "bytes": 18565176,
-   "sha256": "c9f50f6a89a1581f9a9ddd22cf965bc591f5257dd4d083e3d8e8c4c50ae5c2c5"
+   "sha256": "c9f50f6a89a1581f9a9ddd22cf965bc591f5257dd4d083e3d8e8c4c50ae5c2c5",
+   "subject": "8"
   },
   {
    "file": "P08/S1/eeg/alldata_sbj08_sess1_MATBmed.set",
    "bytes": 18565176,
-   "sha256": "05acde76b8d70014cb40ab8635ef5dc582ee7fa4b8196705460d4fbeaedff7d1"
+   "sha256": "05acde76b8d70014cb40ab8635ef5dc582ee7fa4b8196705460d4fbeaedff7d1",
+   "subject": "8"
   },
   {
    "file": "P08/S1/eeg/alldata_sbj08_sess1_RS.set",
    "bytes": 3962432,
-   "sha256": "ac3ed25bf7708e4a32ac6ca82402dc8521cc0acd7aaeb4d369f8029f63f30c77"
+   "sha256": "ac3ed25bf7708e4a32ac6ca82402dc8521cc0acd7aaeb4d369f8029f63f30c77",
+   "subject": "8"
   },
   {
    "file": "P08/S1/eeg/alldata_sbj08_sess1_RSraw.set",
    "bytes": 7781472,
-   "sha256": "53dc3fc4c1ef8f9d3504f83058e9a0adeaf14406b1cab45d11d31554db9567dd"
+   "sha256": "53dc3fc4c1ef8f9d3504f83058e9a0adeaf14406b1cab45d11d31554db9567dd",
+   "subject": "8"
   },
   {
    "file": "P08/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "7ca41b5e1e7825f2406ace99f488c3e85feeb7cd536e1f2a24a5f864203482a3"
+   "sha256": "7ca41b5e1e7825f2406ace99f488c3e85feeb7cd536e1f2a24a5f864203482a3",
+   "subject": "8"
   },
   {
    "file": "P08/S2/eeg/alldata_sbj08_sess2_MATBdiff.set",
    "bytes": 18581720,
-   "sha256": "a2b305eed42b51ed1b0b037863a64c0550a1de881e86b8801031b366de7773ab"
+   "sha256": "a2b305eed42b51ed1b0b037863a64c0550a1de881e86b8801031b366de7773ab",
+   "subject": "8"
   },
   {
    "file": "P08/S2/eeg/alldata_sbj08_sess2_MATBeasy.set",
    "bytes": 18581720,
-   "sha256": "206002e5c6ea11e02f89a1740f3a8aac90966471de03b3e9811ee80bfa9d9536"
+   "sha256": "206002e5c6ea11e02f89a1740f3a8aac90966471de03b3e9811ee80bfa9d9536",
+   "subject": "8"
   },
   {
    "file": "P08/S2/eeg/alldata_sbj08_sess2_MATBmed.set",
    "bytes": 18581720,
-   "sha256": "0eea431998cf0e6e113d07db1de7dbd896aee71971940221f69f7636e8fa36f0"
+   "sha256": "0eea431998cf0e6e113d07db1de7dbd896aee71971940221f69f7636e8fa36f0",
+   "subject": "8"
   },
   {
    "file": "P08/S2/eeg/alldata_sbj08_sess2_RS.set",
    "bytes": 3978976,
-   "sha256": "f56a795c9187c471ae8ee2a96f8694703559d7fe11bd0725fa02b6027739a83a"
+   "sha256": "f56a795c9187c471ae8ee2a96f8694703559d7fe11bd0725fa02b6027739a83a",
+   "subject": "8"
   },
   {
    "file": "P08/S2/eeg/alldata_sbj08_sess2_RSraw.set",
    "bytes": 7798016,
-   "sha256": "376d5f76af720b18e1f099a4819e443c9136d2e0be2214923b83b94cbaf18126"
+   "sha256": "376d5f76af720b18e1f099a4819e443c9136d2e0be2214923b83b94cbaf18126",
+   "subject": "8"
   },
   {
    "file": "P08/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "90a9f9d6c7372d8ca5e3e54e0e8da593ad81408aaae15090d40e7a0d86d0a239"
+   "sha256": "90a9f9d6c7372d8ca5e3e54e0e8da593ad81408aaae15090d40e7a0d86d0a239",
+   "subject": "8"
   },
   {
    "file": "P08/S3/eeg/alldata_sbj08_sess3_RS.set",
    "bytes": 3988576,
-   "sha256": "cc4c1f2c161a6e80717e4c5cf42d265821e0389d98e3c4a9e1fbdbe95e42d835"
+   "sha256": "cc4c1f2c161a6e80717e4c5cf42d265821e0389d98e3c4a9e1fbdbe95e42d835",
+   "subject": "8"
   },
   {
    "file": "P08/S3/eeg/alldata_sbj08_sess3_RSraw.set",
    "bytes": 7807616,
-   "sha256": "bc0da084c02cca6067055128e3b828385e4f875ad51afc0c3cb5332a77e46c68"
+   "sha256": "bc0da084c02cca6067055128e3b828385e4f875ad51afc0c3cb5332a77e46c68",
+   "subject": "8"
   },
   {
    "file": "P08/S3/eeg/testset_sbj08_sess3.set",
    "bytes": 55143064,
-   "sha256": "5b3229286db8ea3637978e1d77cacb6253530eb4768e0b69c01674b9829ea60c"
+   "sha256": "5b3229286db8ea3637978e1d77cacb6253530eb4768e0b69c01674b9829ea60c",
+   "subject": "8"
   },
   {
    "file": "P08/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "959227a9e8f8eb3927d95c795485798c12aab99ce1909fec0c767c5186cd89fb"
+   "sha256": "959227a9e8f8eb3927d95c795485798c12aab99ce1909fec0c767c5186cd89fb",
+   "subject": "8"
   },
   {
    "file": "P09/S1/eeg/alldata_sbj09_sess1_MATBdiff.set",
    "bytes": 18601744,
-   "sha256": "4b39ea580212941eb093d02a393b7f35ceb61c3928324502d84fac5a9d38b0d7"
+   "sha256": "4b39ea580212941eb093d02a393b7f35ceb61c3928324502d84fac5a9d38b0d7",
+   "subject": "9"
   },
   {
    "file": "P09/S1/eeg/alldata_sbj09_sess1_MATBeasy.set",
    "bytes": 18601744,
-   "sha256": "5fb3af47467880e8d1a7266d46b555a0c4e4fcf3de3f675d194a29dc4317a7a3"
+   "sha256": "5fb3af47467880e8d1a7266d46b555a0c4e4fcf3de3f675d194a29dc4317a7a3",
+   "subject": "9"
   },
   {
    "file": "P09/S1/eeg/alldata_sbj09_sess1_MATBmed.set",
    "bytes": 18601744,
-   "sha256": "235dd02b3ac913200404cae12bc5f7994dab15f473878ca938e2b006ee81fbcf"
+   "sha256": "235dd02b3ac913200404cae12bc5f7994dab15f473878ca938e2b006ee81fbcf",
+   "subject": "9"
   },
   {
    "file": "P09/S1/eeg/alldata_sbj09_sess1_RS.set",
    "bytes": 3999000,
-   "sha256": "de4ca417b45bcbf158cf4a106d22fd4832f8fe7289851376f337b6079ab063e9"
+   "sha256": "de4ca417b45bcbf158cf4a106d22fd4832f8fe7289851376f337b6079ab063e9",
+   "subject": "9"
   },
   {
    "file": "P09/S1/eeg/alldata_sbj09_sess1_RSraw.set",
    "bytes": 7817792,
-   "sha256": "0efd6bfe4e7bfeb9fde8e1c5efeda7b75ea8069b7b33d4e485d6ab0692ce7cf5"
+   "sha256": "0efd6bfe4e7bfeb9fde8e1c5efeda7b75ea8069b7b33d4e485d6ab0692ce7cf5",
+   "subject": "9"
   },
   {
    "file": "P09/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "a3243e409a1ac6e27da3c7d6399cccf970de6901705f2d75d95ba7a32315c121"
+   "sha256": "a3243e409a1ac6e27da3c7d6399cccf970de6901705f2d75d95ba7a32315c121",
+   "subject": "9"
   },
   {
    "file": "P09/S2/eeg/alldata_sbj09_sess2_MATBdiff.set",
    "bytes": 18600888,
-   "sha256": "e4db5e36fe203f1fcad0227cbf3842a900db60b16d2de28e025a4b1f1183d516"
+   "sha256": "e4db5e36fe203f1fcad0227cbf3842a900db60b16d2de28e025a4b1f1183d516",
+   "subject": "9"
   },
   {
    "file": "P09/S2/eeg/alldata_sbj09_sess2_MATBeasy.set",
    "bytes": 18600888,
-   "sha256": "da8425052211964c9cdb7a385afe165ecffe6f80ff4d2a0fb33f698bbdf0856b"
+   "sha256": "da8425052211964c9cdb7a385afe165ecffe6f80ff4d2a0fb33f698bbdf0856b",
+   "subject": "9"
   },
   {
    "file": "P09/S2/eeg/alldata_sbj09_sess2_MATBmed.set",
    "bytes": 18600888,
-   "sha256": "d794d2318b77101518aa094954055258ebe4e39a6dcd7204b65d7e4d09b16f05"
+   "sha256": "d794d2318b77101518aa094954055258ebe4e39a6dcd7204b65d7e4d09b16f05",
+   "subject": "9"
   },
   {
    "file": "P09/S2/eeg/alldata_sbj09_sess2_RS.set",
    "bytes": 3998144,
-   "sha256": "775d22354a29de1c436f2877da6db339dd5ab9d5c9b75eeb22c8da15042ae0d2"
+   "sha256": "775d22354a29de1c436f2877da6db339dd5ab9d5c9b75eeb22c8da15042ae0d2",
+   "subject": "9"
   },
   {
    "file": "P09/S2/eeg/alldata_sbj09_sess2_RSraw.set",
    "bytes": 7816936,
-   "sha256": "59621c40129b14a66791094303070f1071078a55b435285842688021a90d79d0"
+   "sha256": "59621c40129b14a66791094303070f1071078a55b435285842688021a90d79d0",
+   "subject": "9"
   },
   {
    "file": "P09/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "bb8b7a9ea76e5f682fe77c3bcf8329fc24065c292bec786f5b2ea1c28b2f73ae"
+   "sha256": "bb8b7a9ea76e5f682fe77c3bcf8329fc24065c292bec786f5b2ea1c28b2f73ae",
+   "subject": "9"
   },
   {
    "file": "P09/S3/eeg/alldata_sbj09_sess3_RS.set",
    "bytes": 3982088,
-   "sha256": "350d0cf3d8a9bb0c1e7a82bd5ff67f455991249f92ab7a7a8a7a261c250f5fc5"
+   "sha256": "350d0cf3d8a9bb0c1e7a82bd5ff67f455991249f92ab7a7a8a7a261c250f5fc5",
+   "subject": "9"
   },
   {
    "file": "P09/S3/eeg/alldata_sbj09_sess3_RSraw.set",
    "bytes": 7801128,
-   "sha256": "d6ed0891ab617a289b1165f6757e7376cd7f4134e489e6bca43fd86c33ad8bd6"
+   "sha256": "d6ed0891ab617a289b1165f6757e7376cd7f4134e489e6bca43fd86c33ad8bd6",
+   "subject": "9"
   },
   {
    "file": "P09/S3/eeg/testset_sbj09_sess3.set",
    "bytes": 55136576,
-   "sha256": "e96dd592e8896fb6a7fe9120d070f4cfb840ef7f2bc76dd640cade953ed35c46"
+   "sha256": "e96dd592e8896fb6a7fe9120d070f4cfb840ef7f2bc76dd640cade953ed35c46",
+   "subject": "9"
   },
   {
    "file": "P09/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "f46a6be75d8f8a96a1689d2943f71041f27d8a4513f00de6efeeeab9063934bc"
+   "sha256": "f46a6be75d8f8a96a1689d2943f71041f27d8a4513f00de6efeeeab9063934bc",
+   "subject": "9"
   },
   {
    "file": "P10/S1/eeg/alldata_sbj10_sess1_MATBdiff.set",
    "bytes": 18614200,
-   "sha256": "8d3ab0a9a8fd92500e47c937cec37820d6530b98bf2740702e01e8a645ec79bf"
+   "sha256": "8d3ab0a9a8fd92500e47c937cec37820d6530b98bf2740702e01e8a645ec79bf",
+   "subject": "10"
   },
   {
    "file": "P10/S1/eeg/alldata_sbj10_sess1_MATBeasy.set",
    "bytes": 18614200,
-   "sha256": "a73091af9589b60ff5300de4341a602896c93c343eb34f0078f79822dff3cbcb"
+   "sha256": "a73091af9589b60ff5300de4341a602896c93c343eb34f0078f79822dff3cbcb",
+   "subject": "10"
   },
   {
    "file": "P10/S1/eeg/alldata_sbj10_sess1_MATBmed.set",
    "bytes": 18614200,
-   "sha256": "b63b98a2e38ad8e3bbb4427b05c4fa3a0179632e1a482433084e4bc013e1f1a4"
+   "sha256": "b63b98a2e38ad8e3bbb4427b05c4fa3a0179632e1a482433084e4bc013e1f1a4",
+   "subject": "10"
   },
   {
    "file": "P10/S1/eeg/alldata_sbj10_sess1_RS.set",
    "bytes": 4011456,
-   "sha256": "76a6a7afc2a41d21bd333d361207127204fcd6a5057aeca7166eba95cf040563"
+   "sha256": "76a6a7afc2a41d21bd333d361207127204fcd6a5057aeca7166eba95cf040563",
+   "subject": "10"
   },
   {
    "file": "P10/S1/eeg/alldata_sbj10_sess1_RSraw.set",
    "bytes": 7830248,
-   "sha256": "b8a220bc4b9769d01243b0e41bad68bc953b6c90487ff4095ec5fb0f166fbe86"
+   "sha256": "b8a220bc4b9769d01243b0e41bad68bc953b6c90487ff4095ec5fb0f166fbe86",
+   "subject": "10"
   },
   {
    "file": "P10/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "b557a249662639ed0761986f5b41837e0983543f6b7cf91b459b12d066a09f63"
+   "sha256": "b557a249662639ed0761986f5b41837e0983543f6b7cf91b459b12d066a09f63",
+   "subject": "10"
   },
   {
    "file": "P10/S2/eeg/alldata_sbj10_sess2_MATBdiff.set",
    "bytes": 18584808,
-   "sha256": "464734a089998d2c73c6504d906fac50b9c95f468b121b1ab5d4eed1a82c75a4"
+   "sha256": "464734a089998d2c73c6504d906fac50b9c95f468b121b1ab5d4eed1a82c75a4",
+   "subject": "10"
   },
   {
    "file": "P10/S2/eeg/alldata_sbj10_sess2_MATBeasy.set",
    "bytes": 18584808,
-   "sha256": "fd182125c8fc4726d44d5d3b3eea1817778b8a13a6d9922e2eafb7861eaf5e89"
+   "sha256": "fd182125c8fc4726d44d5d3b3eea1817778b8a13a6d9922e2eafb7861eaf5e89",
+   "subject": "10"
   },
   {
    "file": "P10/S2/eeg/alldata_sbj10_sess2_MATBmed.set",
    "bytes": 18584808,
-   "sha256": "ec904faca9d38e567824730cde605738aa955c2b4424ba8bd7594d6e17825944"
+   "sha256": "ec904faca9d38e567824730cde605738aa955c2b4424ba8bd7594d6e17825944",
+   "subject": "10"
   },
   {
    "file": "P10/S2/eeg/alldata_sbj10_sess2_RS.set",
    "bytes": 3982064,
-   "sha256": "a0843d770591acc2040bff2d28ce130d8f031b2eb882352f109ee08861dc3654"
+   "sha256": "a0843d770591acc2040bff2d28ce130d8f031b2eb882352f109ee08861dc3654",
+   "subject": "10"
   },
   {
    "file": "P10/S2/eeg/alldata_sbj10_sess2_RSraw.set",
    "bytes": 7801104,
-   "sha256": "783e236a2b6d32e4b48733fe9159ef0218fc1ceea6db62e9b0cff9a859e2c861"
+   "sha256": "783e236a2b6d32e4b48733fe9159ef0218fc1ceea6db62e9b0cff9a859e2c861",
+   "subject": "10"
   },
   {
    "file": "P10/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "c71ce3319feeea64a068a271fbfca4eab9997205e4860e66383cda38b3a7ebb9"
+   "sha256": "c71ce3319feeea64a068a271fbfca4eab9997205e4860e66383cda38b3a7ebb9",
+   "subject": "10"
   },
   {
    "file": "P10/S3/eeg/alldata_sbj10_sess3_RS.set",
    "bytes": 3988040,
-   "sha256": "11cbda59ff13d789bfeb124c5cbf27217e13e266b8cd56f44cd2b69771920269"
+   "sha256": "11cbda59ff13d789bfeb124c5cbf27217e13e266b8cd56f44cd2b69771920269",
+   "subject": "10"
   },
   {
    "file": "P10/S3/eeg/alldata_sbj10_sess3_RSraw.set",
    "bytes": 7807080,
-   "sha256": "b280b7160fabd50232c40576724d2d9958bdb95c83b2eaf68e0bff53033c51d7"
+   "sha256": "b280b7160fabd50232c40576724d2d9958bdb95c83b2eaf68e0bff53033c51d7",
+   "subject": "10"
   },
   {
    "file": "P10/S3/eeg/testset_sbj10_sess3.set",
    "bytes": 55142528,
-   "sha256": "8e9018f38e180c90ccf49cc1a867cc1dd07674903619eb3c9b2bc586c67cbab0"
+   "sha256": "8e9018f38e180c90ccf49cc1a867cc1dd07674903619eb3c9b2bc586c67cbab0",
+   "subject": "10"
   },
   {
    "file": "P10/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "e29b1a819a275ee6fccde88a7fe8eda09f002c6cdcf04ae6e6695f497a0d9505"
+   "sha256": "e29b1a819a275ee6fccde88a7fe8eda09f002c6cdcf04ae6e6695f497a0d9505",
+   "subject": "10"
   },
   {
    "file": "P11/S1/eeg/alldata_sbj11_sess1_MATBdiff.set",
    "bytes": 18631400,
-   "sha256": "29f2fab4eff5e963bcac7437545213e100f122a4290a84df40624aca3bbc6eb7"
+   "sha256": "29f2fab4eff5e963bcac7437545213e100f122a4290a84df40624aca3bbc6eb7",
+   "subject": "11"
   },
   {
    "file": "P11/S1/eeg/alldata_sbj11_sess1_MATBeasy.set",
    "bytes": 18631400,
-   "sha256": "c68bd3574d096212b36c1aca610c2523fb7d09f1aa8caf398833529da97c1cb9"
+   "sha256": "c68bd3574d096212b36c1aca610c2523fb7d09f1aa8caf398833529da97c1cb9",
+   "subject": "11"
   },
   {
    "file": "P11/S1/eeg/alldata_sbj11_sess1_MATBmed.set",
    "bytes": 18631400,
-   "sha256": "76a9a6e2099799ad0cae473b8a7f2a89b2b74690dd3faa5974cbdc281713f2da"
+   "sha256": "76a9a6e2099799ad0cae473b8a7f2a89b2b74690dd3faa5974cbdc281713f2da",
+   "subject": "11"
   },
   {
    "file": "P11/S1/eeg/alldata_sbj11_sess1_RS.set",
    "bytes": 4028656,
-   "sha256": "42c4fbcb3226d5368b5abd81c36f968684aee750380b9b8f68d53ce12cf1cea0"
+   "sha256": "42c4fbcb3226d5368b5abd81c36f968684aee750380b9b8f68d53ce12cf1cea0",
+   "subject": "11"
   },
   {
    "file": "P11/S1/eeg/alldata_sbj11_sess1_RSraw.set",
    "bytes": 7847696,
-   "sha256": "5e7a3421decb0eb3b904892c9dbed4bdd51dbf147e8c3b104892470a3a8c8198"
+   "sha256": "5e7a3421decb0eb3b904892c9dbed4bdd51dbf147e8c3b104892470a3a8c8198",
+   "subject": "11"
   },
   {
    "file": "P11/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "2a414ca6c22ebdafd9b276d3f4553002a932d652cc83173a17dfd7f3d3350750"
+   "sha256": "2a414ca6c22ebdafd9b276d3f4553002a932d652cc83173a17dfd7f3d3350750",
+   "subject": "11"
   },
   {
    "file": "P11/S2/eeg/alldata_sbj11_sess2_MATBdiff.set",
    "bytes": 18592176,
-   "sha256": "6b88228d87c3ac3f3cda36be63c30a71310a04318c484044f3a5448bf0178e47"
+   "sha256": "6b88228d87c3ac3f3cda36be63c30a71310a04318c484044f3a5448bf0178e47",
+   "subject": "11"
   },
   {
    "file": "P11/S2/eeg/alldata_sbj11_sess2_MATBeasy.set",
    "bytes": 18592176,
-   "sha256": "e9c6df06e246b2bc76a1592d4414b20ec7a8b8e380ba8fa849bdbe2c6a6ba006"
+   "sha256": "e9c6df06e246b2bc76a1592d4414b20ec7a8b8e380ba8fa849bdbe2c6a6ba006",
+   "subject": "11"
   },
   {
    "file": "P11/S2/eeg/alldata_sbj11_sess2_MATBmed.set",
    "bytes": 18592176,
-   "sha256": "48abdc22fb817586a449deeff0cf364990fd44c0eb77d3b5565fcdbe3cc50026"
+   "sha256": "48abdc22fb817586a449deeff0cf364990fd44c0eb77d3b5565fcdbe3cc50026",
+   "subject": "11"
   },
   {
    "file": "P11/S2/eeg/alldata_sbj11_sess2_RS.set",
    "bytes": 3989432,
-   "sha256": "4444c7abe369f68eba5cabf3c199007a2ec5f34aa4e481ed8d81cc7b1f331f51"
+   "sha256": "4444c7abe369f68eba5cabf3c199007a2ec5f34aa4e481ed8d81cc7b1f331f51",
+   "subject": "11"
   },
   {
    "file": "P11/S2/eeg/alldata_sbj11_sess2_RSraw.set",
    "bytes": 7808472,
-   "sha256": "cf0afa81d08d557734b3467d86e3c4bc04f0be6a3598ceb7c63224242cc2fc8e"
+   "sha256": "cf0afa81d08d557734b3467d86e3c4bc04f0be6a3598ceb7c63224242cc2fc8e",
+   "subject": "11"
   },
   {
    "file": "P11/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "bc78937550651d88bcd03b5c678bf58fc8bbbf958d84b01781a70096c929fb59"
+   "sha256": "bc78937550651d88bcd03b5c678bf58fc8bbbf958d84b01781a70096c929fb59",
+   "subject": "11"
   },
   {
    "file": "P11/S3/eeg/alldata_sbj11_sess3_RS.set",
    "bytes": 3987824,
-   "sha256": "73c1a4414434475dc0deb1697f130a7c14fd05d8b184dab163863f967bbc093a"
+   "sha256": "73c1a4414434475dc0deb1697f130a7c14fd05d8b184dab163863f967bbc093a",
+   "subject": "11"
   },
   {
    "file": "P11/S3/eeg/alldata_sbj11_sess3_RSraw.set",
    "bytes": 7806864,
-   "sha256": "68ef4cba2c9f2e60f9d3c52b62788829eea4a59a40d815b0ef12ae1ef8da3a4a"
+   "sha256": "68ef4cba2c9f2e60f9d3c52b62788829eea4a59a40d815b0ef12ae1ef8da3a4a",
+   "subject": "11"
   },
   {
    "file": "P11/S3/eeg/testset_sbj11_sess3.set",
    "bytes": 55142312,
-   "sha256": "8d08e5ccdf27f91a7f717f9eba8f26453a102817b1705378e1fb4dbd7bfa6bf7"
+   "sha256": "8d08e5ccdf27f91a7f717f9eba8f26453a102817b1705378e1fb4dbd7bfa6bf7",
+   "subject": "11"
   },
   {
    "file": "P11/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "2a414ca6c22ebdafd9b276d3f4553002a932d652cc83173a17dfd7f3d3350750"
+   "sha256": "2a414ca6c22ebdafd9b276d3f4553002a932d652cc83173a17dfd7f3d3350750",
+   "subject": "11"
   },
   {
    "file": "P12/S1/eeg/alldata_sbj12_sess1_MATBdiff.set",
    "bytes": 18595968,
-   "sha256": "34a1ef642d89817c527dc702dc15bc93257c89189504c8ee38a4862c2fcaeb69"
+   "sha256": "34a1ef642d89817c527dc702dc15bc93257c89189504c8ee38a4862c2fcaeb69",
+   "subject": "12"
   },
   {
    "file": "P12/S1/eeg/alldata_sbj12_sess1_MATBeasy.set",
    "bytes": 18595968,
-   "sha256": "7da810d6cbbcbcfb1b86e9c1dda0c812cdb3c8ae4b06ad464d3ca48efc47c205"
+   "sha256": "7da810d6cbbcbcfb1b86e9c1dda0c812cdb3c8ae4b06ad464d3ca48efc47c205",
+   "subject": "12"
   },
   {
    "file": "P12/S1/eeg/alldata_sbj12_sess1_MATBmed.set",
    "bytes": 18595968,
-   "sha256": "49267c1413f2a0450372ebc1cc0d4e16d393fad92dd8760d35cfcd14ddc3d5f4"
+   "sha256": "49267c1413f2a0450372ebc1cc0d4e16d393fad92dd8760d35cfcd14ddc3d5f4",
+   "subject": "12"
   },
   {
    "file": "P12/S1/eeg/alldata_sbj12_sess1_RS.set",
    "bytes": 3993224,
-   "sha256": "d617478fb136e6af9cec20bcd10050ab29668781b374b9066d4313338e813fdd"
+   "sha256": "d617478fb136e6af9cec20bcd10050ab29668781b374b9066d4313338e813fdd",
+   "subject": "12"
   },
   {
    "file": "P12/S1/eeg/alldata_sbj12_sess1_RSraw.set",
    "bytes": 7812264,
-   "sha256": "10b44ef820a73a0f712133d96e7778a9c1e08fc57cbd5fa85bd59c033aa53041"
+   "sha256": "10b44ef820a73a0f712133d96e7778a9c1e08fc57cbd5fa85bd59c033aa53041",
+   "subject": "12"
   },
   {
    "file": "P12/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "cf37a540e84dab5bb5409bf2a4b80c71c9ee383a6aba7a375d93ae135433793a"
+   "sha256": "cf37a540e84dab5bb5409bf2a4b80c71c9ee383a6aba7a375d93ae135433793a",
+   "subject": "12"
   },
   {
    "file": "P12/S2/eeg/alldata_sbj12_sess2_MATBdiff.set",
    "bytes": 18575896,
-   "sha256": "3e8bf2fc7a52ea49206b3b7b4c966df337f9b3bc06577d413754f07059639053"
+   "sha256": "3e8bf2fc7a52ea49206b3b7b4c966df337f9b3bc06577d413754f07059639053",
+   "subject": "12"
   },
   {
    "file": "P12/S2/eeg/alldata_sbj12_sess2_MATBeasy.set",
    "bytes": 18575896,
-   "sha256": "c95927c22cb0def0e594116eb773da7479f27fa9b8f06ba55f187260f97b5586"
+   "sha256": "c95927c22cb0def0e594116eb773da7479f27fa9b8f06ba55f187260f97b5586",
+   "subject": "12"
   },
   {
    "file": "P12/S2/eeg/alldata_sbj12_sess2_MATBmed.set",
    "bytes": 18575896,
-   "sha256": "f82cf97bf846d1138d2d06cc82b70987e15b0fbb80a0d915a2ceae744926351d"
+   "sha256": "f82cf97bf846d1138d2d06cc82b70987e15b0fbb80a0d915a2ceae744926351d",
+   "subject": "12"
   },
   {
    "file": "P12/S2/eeg/alldata_sbj12_sess2_RS.set",
    "bytes": 3797288,
-   "sha256": "b4326106e764c1daeb13de2b73c256a8f86bfed789ad8e8403deef6eb99f69d1"
+   "sha256": "b4326106e764c1daeb13de2b73c256a8f86bfed789ad8e8403deef6eb99f69d1",
+   "subject": "12"
   },
   {
    "file": "P12/S2/eeg/alldata_sbj12_sess2_RSraw.set",
    "bytes": 7616080,
-   "sha256": "270082eaec71779628e54f8adab7439a90609b7bf5c272f411a94559d8efc9e7"
+   "sha256": "270082eaec71779628e54f8adab7439a90609b7bf5c272f411a94559d8efc9e7",
+   "subject": "12"
   },
   {
    "file": "P12/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "9b4cb45d52160a70423ed9072eb518fed211151d3a678e9bf820934de752929e"
+   "sha256": "9b4cb45d52160a70423ed9072eb518fed211151d3a678e9bf820934de752929e",
+   "subject": "12"
   },
   {
    "file": "P12/S3/eeg/alldata_sbj12_sess3_RS.set",
    "bytes": 3987888,
-   "sha256": "ef9f8719a1fde03ad122ff87e5b1234a892e11348eb8ef32c22021d9a7574213"
+   "sha256": "ef9f8719a1fde03ad122ff87e5b1234a892e11348eb8ef32c22021d9a7574213",
+   "subject": "12"
   },
   {
    "file": "P12/S3/eeg/alldata_sbj12_sess3_RSraw.set",
    "bytes": 7806680,
-   "sha256": "766fc90cb3e2961c096f33d4e5d870e64bdcd81ce2e5ee81d36082c833ab1896"
+   "sha256": "766fc90cb3e2961c096f33d4e5d870e64bdcd81ce2e5ee81d36082c833ab1896",
+   "subject": "12"
   },
   {
    "file": "P12/S3/eeg/testset_sbj12_sess3.set",
    "bytes": 55142376,
-   "sha256": "fd58b9a625cb6cbe8a2d16f691590b088e52d1dc3344ec3f81ba923084fc67a4"
+   "sha256": "fd58b9a625cb6cbe8a2d16f691590b088e52d1dc3344ec3f81ba923084fc67a4",
+   "subject": "12"
   },
   {
    "file": "P12/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "7a4973d005754410ea485c8e4c80c4f02e094c9462b2ebdbf4729b712171ea30"
+   "sha256": "7a4973d005754410ea485c8e4c80c4f02e094c9462b2ebdbf4729b712171ea30",
+   "subject": "12"
   },
   {
    "file": "P13/S1/eeg/alldata_sbj13_sess1_MATBdiff.set",
    "bytes": 18604504,
-   "sha256": "1b681278e65a5283eb5834d6c389a62443502ad9be09b552142cba271c8420ed"
+   "sha256": "1b681278e65a5283eb5834d6c389a62443502ad9be09b552142cba271c8420ed",
+   "subject": "13"
   },
   {
    "file": "P13/S1/eeg/alldata_sbj13_sess1_MATBeasy.set",
    "bytes": 18604504,
-   "sha256": "1172bee13f2535712175453bd1c427a4e23d3541119433e9425824c313fd1981"
+   "sha256": "1172bee13f2535712175453bd1c427a4e23d3541119433e9425824c313fd1981",
+   "subject": "13"
   },
   {
    "file": "P13/S1/eeg/alldata_sbj13_sess1_MATBmed.set",
    "bytes": 18604504,
-   "sha256": "cea0d1559d441e17d6d3c17e2155ca632e6c99a98f8ef394f5ef3f69602b41fe"
+   "sha256": "cea0d1559d441e17d6d3c17e2155ca632e6c99a98f8ef394f5ef3f69602b41fe",
+   "subject": "13"
   },
   {
    "file": "P13/S1/eeg/alldata_sbj13_sess1_RS.set",
    "bytes": 4001760,
-   "sha256": "e322be39b0ba2047ded354027b759667db5335d1fc30329e31527dba979d28a0"
+   "sha256": "e322be39b0ba2047ded354027b759667db5335d1fc30329e31527dba979d28a0",
+   "subject": "13"
   },
   {
    "file": "P13/S1/eeg/alldata_sbj13_sess1_RSraw.set",
    "bytes": 7820800,
-   "sha256": "bf9aa1e23a963965bbdef310e5b9efd845b4e5e694f21c391ddb4448fd06f6bc"
+   "sha256": "bf9aa1e23a963965bbdef310e5b9efd845b4e5e694f21c391ddb4448fd06f6bc",
+   "subject": "13"
   },
   {
    "file": "P13/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "0e7ec0ac8d7045ce8edc4293ab3e89d84644c494611a3416069ecb5402ef2aa4"
+   "sha256": "0e7ec0ac8d7045ce8edc4293ab3e89d84644c494611a3416069ecb5402ef2aa4",
+   "subject": "13"
   },
   {
    "file": "P13/S2/eeg/alldata_sbj13_sess2_MATBdiff.set",
    "bytes": 18595496,
-   "sha256": "ad95ceacee894d8dc402651c248c2f2844f2ab99b1bdfd5717f1d689673ad274"
+   "sha256": "ad95ceacee894d8dc402651c248c2f2844f2ab99b1bdfd5717f1d689673ad274",
+   "subject": "13"
   },
   {
    "file": "P13/S2/eeg/alldata_sbj13_sess2_MATBeasy.set",
    "bytes": 18595496,
-   "sha256": "41a50d5c0535ddbe842799b50be4a67ac3e6d1bfbb94c259a6b19b1a1fbd2c7a"
+   "sha256": "41a50d5c0535ddbe842799b50be4a67ac3e6d1bfbb94c259a6b19b1a1fbd2c7a",
+   "subject": "13"
   },
   {
    "file": "P13/S2/eeg/alldata_sbj13_sess2_MATBmed.set",
    "bytes": 18595496,
-   "sha256": "d6d5bcd9f583139564703e5f5f402dffbda40676f44b640e4e4d80c72e93ba28"
+   "sha256": "d6d5bcd9f583139564703e5f5f402dffbda40676f44b640e4e4d80c72e93ba28",
+   "subject": "13"
   },
   {
    "file": "P13/S2/eeg/alldata_sbj13_sess2_RS.set",
    "bytes": 3992752,
-   "sha256": "5ff3f49de2f70dda4b7584a4308bbee58704bcab6dbc77f5a8450e876e935bb7"
+   "sha256": "5ff3f49de2f70dda4b7584a4308bbee58704bcab6dbc77f5a8450e876e935bb7",
+   "subject": "13"
   },
   {
    "file": "P13/S2/eeg/alldata_sbj13_sess2_RSraw.set",
    "bytes": 7811544,
-   "sha256": "5c04bc8917ce485b2ccbfe18267c4be2acbdcb45bfc3772369588fd538d2e82c"
+   "sha256": "5c04bc8917ce485b2ccbfe18267c4be2acbdcb45bfc3772369588fd538d2e82c",
+   "subject": "13"
   },
   {
    "file": "P13/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "f4aed31b28bd6037baf1313ae1c7e5b4b62608447caa0a95bdeeb1db7857b078"
+   "sha256": "f4aed31b28bd6037baf1313ae1c7e5b4b62608447caa0a95bdeeb1db7857b078",
+   "subject": "13"
   },
   {
    "file": "P13/S3/eeg/alldata_sbj13_sess3_RS.set",
    "bytes": 3996712,
-   "sha256": "f4cd964df62ece92d0d6170a3e0568bf0ba8321cfc1dfa9dd7f7607f64d4d0e5"
+   "sha256": "f4cd964df62ece92d0d6170a3e0568bf0ba8321cfc1dfa9dd7f7607f64d4d0e5",
+   "subject": "13"
   },
   {
    "file": "P13/S3/eeg/alldata_sbj13_sess3_RSraw.set",
    "bytes": 7815752,
-   "sha256": "3f31c81a5a09158e36c04c6c38767cd7c24568bc8626cde9a2a29a77091343f2"
+   "sha256": "3f31c81a5a09158e36c04c6c38767cd7c24568bc8626cde9a2a29a77091343f2",
+   "subject": "13"
   },
   {
    "file": "P13/S3/eeg/testset_sbj13_sess3.set",
    "bytes": 55151200,
-   "sha256": "bbff6e765557d6581380dca3cc254c7e1a4782b44e3ccf18089c00ddedd581b1"
+   "sha256": "bbff6e765557d6581380dca3cc254c7e1a4782b44e3ccf18089c00ddedd581b1",
+   "subject": "13"
   },
   {
    "file": "P13/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "44352e2073ae34becba7cc38bca96bc076e864630b0cccd8656afa66cb488261"
+   "sha256": "44352e2073ae34becba7cc38bca96bc076e864630b0cccd8656afa66cb488261",
+   "subject": "13"
   },
   {
    "file": "P14/S1/eeg/alldata_sbj14_sess1_MATBdiff.set",
    "bytes": 18603584,
-   "sha256": "4a35ff15069e994644d58647372fe92c6becc8cc1ed378f664ab697c192e2d93"
+   "sha256": "4a35ff15069e994644d58647372fe92c6becc8cc1ed378f664ab697c192e2d93",
+   "subject": "14"
   },
   {
    "file": "P14/S1/eeg/alldata_sbj14_sess1_MATBeasy.set",
    "bytes": 18603584,
-   "sha256": "bb0b6027bcbd25050d9045f9f0a1e7a1d1932d0ba94b60425dda2379cfdedf15"
+   "sha256": "bb0b6027bcbd25050d9045f9f0a1e7a1d1932d0ba94b60425dda2379cfdedf15",
+   "subject": "14"
   },
   {
    "file": "P14/S1/eeg/alldata_sbj14_sess1_MATBmed.set",
    "bytes": 18603584,
-   "sha256": "9a7e3aed514f0eb262a75da3265028593cd8601552380997ff597e6aad6e01c6"
+   "sha256": "9a7e3aed514f0eb262a75da3265028593cd8601552380997ff597e6aad6e01c6",
+   "subject": "14"
   },
   {
    "file": "P14/S1/eeg/alldata_sbj14_sess1_RS.set",
    "bytes": 4000840,
-   "sha256": "e59c9b17bd9ae01d1a6659fbe0e88dc688547c49f871b781066a840355b09136"
+   "sha256": "e59c9b17bd9ae01d1a6659fbe0e88dc688547c49f871b781066a840355b09136",
+   "subject": "14"
   },
   {
    "file": "P14/S1/eeg/alldata_sbj14_sess1_RSraw.set",
    "bytes": 7819632,
-   "sha256": "30fe65474adb3cbaa86d11e523d1cb288fac729703e0e4379875ba5d9dc5256f"
+   "sha256": "30fe65474adb3cbaa86d11e523d1cb288fac729703e0e4379875ba5d9dc5256f",
+   "subject": "14"
   },
   {
    "file": "P14/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "24c2cb6d0518fcb97f70be13add731f9c58d3d733890b06fc0acb33b0c6d54be"
+   "sha256": "24c2cb6d0518fcb97f70be13add731f9c58d3d733890b06fc0acb33b0c6d54be",
+   "subject": "14"
   },
   {
    "file": "P14/S2/eeg/alldata_sbj14_sess2_MATBdiff.set",
    "bytes": 18592760,
-   "sha256": "3819c62a0f3e8f0164be7db3cc6e906677c56348a63f6cb685e2aa9fea035495"
+   "sha256": "3819c62a0f3e8f0164be7db3cc6e906677c56348a63f6cb685e2aa9fea035495",
+   "subject": "14"
   },
   {
    "file": "P14/S2/eeg/alldata_sbj14_sess2_MATBeasy.set",
    "bytes": 18592760,
-   "sha256": "eb48ab451b239004bdfbed2b050d8310225beb31c8049f1be86fe0c55bc620e4"
+   "sha256": "eb48ab451b239004bdfbed2b050d8310225beb31c8049f1be86fe0c55bc620e4",
+   "subject": "14"
   },
   {
    "file": "P14/S2/eeg/alldata_sbj14_sess2_MATBmed.set",
    "bytes": 18592760,
-   "sha256": "59fae87ce25ee76e849991a50b7c2bab943e8b1e11a6d0010f256b4a985a535d"
+   "sha256": "59fae87ce25ee76e849991a50b7c2bab943e8b1e11a6d0010f256b4a985a535d",
+   "subject": "14"
   },
   {
    "file": "P14/S2/eeg/alldata_sbj14_sess2_RS.set",
    "bytes": 3990016,
-   "sha256": "c71c0dd0bb663bfb9d8dd6a81414c6b184356ae886d11540c8b799079fddae75"
+   "sha256": "c71c0dd0bb663bfb9d8dd6a81414c6b184356ae886d11540c8b799079fddae75",
+   "subject": "14"
   },
   {
    "file": "P14/S2/eeg/alldata_sbj14_sess2_RSraw.set",
    "bytes": 7809056,
-   "sha256": "5fa12bd1cb6a6aabaac81b1b409463aa3af851d21b5296f837912de314173b8f"
+   "sha256": "5fa12bd1cb6a6aabaac81b1b409463aa3af851d21b5296f837912de314173b8f",
+   "subject": "14"
   },
   {
    "file": "P14/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "8775c75a63f3b59553b1b7e5f2114457d5615ac019593b631d36ff9bb8c7dbbb"
+   "sha256": "8775c75a63f3b59553b1b7e5f2114457d5615ac019593b631d36ff9bb8c7dbbb",
+   "subject": "14"
   },
   {
    "file": "P14/S3/eeg/alldata_sbj14_sess3_RS.set",
    "bytes": 3981112,
-   "sha256": "f15c4a09ab36e4cd8020e6616ff62d14fe5a0a6d725876db8915a2dc2530b842"
+   "sha256": "f15c4a09ab36e4cd8020e6616ff62d14fe5a0a6d725876db8915a2dc2530b842",
+   "subject": "14"
   },
   {
    "file": "P14/S3/eeg/alldata_sbj14_sess3_RSraw.set",
    "bytes": 7800152,
-   "sha256": "1e2ebd72c1008c2a790655237e48d9a4984670932530be608f73f16bef5887c5"
+   "sha256": "1e2ebd72c1008c2a790655237e48d9a4984670932530be608f73f16bef5887c5",
+   "subject": "14"
   },
   {
    "file": "P14/S3/eeg/testset_sbj14_sess3.set",
    "bytes": 55135600,
-   "sha256": "80319d38f41a91c3a7dcaf18698a1e1423857d954b739d989492b574156ae7e0"
+   "sha256": "80319d38f41a91c3a7dcaf18698a1e1423857d954b739d989492b574156ae7e0",
+   "subject": "14"
   },
   {
    "file": "P14/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "af96003b88a9186243834e8eb0c2bf0b7d38fd83c7f50ac73e9404f2a22518b4"
+   "sha256": "af96003b88a9186243834e8eb0c2bf0b7d38fd83c7f50ac73e9404f2a22518b4",
+   "subject": "14"
   },
   {
    "file": "P15/S1/eeg/alldata_sbj15_sess1_MATBdiff.set",
    "bytes": 18591656,
-   "sha256": "5443b5051b89a0ecc5d9c4c8526ea01c24b281204b7966d83d335cf009f5a9c8"
+   "sha256": "5443b5051b89a0ecc5d9c4c8526ea01c24b281204b7966d83d335cf009f5a9c8",
+   "subject": "15"
   },
   {
    "file": "P15/S1/eeg/alldata_sbj15_sess1_MATBeasy.set",
    "bytes": 18591656,
-   "sha256": "2a12207a7db36974ffc6472d544653f5c471edf655d892787f6f320bd39a80a6"
+   "sha256": "2a12207a7db36974ffc6472d544653f5c471edf655d892787f6f320bd39a80a6",
+   "subject": "15"
   },
   {
    "file": "P15/S1/eeg/alldata_sbj15_sess1_MATBmed.set",
    "bytes": 18591656,
-   "sha256": "9403027bb259ca0f233cfcfbb60b2f4f578491cb8c84af3cec43db9332f72b56"
+   "sha256": "9403027bb259ca0f233cfcfbb60b2f4f578491cb8c84af3cec43db9332f72b56",
+   "subject": "15"
   },
   {
    "file": "P15/S1/eeg/alldata_sbj15_sess1_RS.set",
    "bytes": 3988912,
-   "sha256": "2bc19f1fe538a7bc5a306a6279b3728d302085b6e11ce173b6984ad9bda0107b"
+   "sha256": "2bc19f1fe538a7bc5a306a6279b3728d302085b6e11ce173b6984ad9bda0107b",
+   "subject": "15"
   },
   {
    "file": "P15/S1/eeg/alldata_sbj15_sess1_RSraw.set",
    "bytes": 7807952,
-   "sha256": "6eb27c4be15febb22cf0e8b71c5d87f94102a651a32e839e3cf029a9767cf029"
+   "sha256": "6eb27c4be15febb22cf0e8b71c5d87f94102a651a32e839e3cf029a9767cf029",
+   "subject": "15"
   },
   {
    "file": "P15/S1/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "ecfdc8161fdee90df7a8ccb2c1d36ed66a87ffc51fc7dc7336a116b204728021"
+   "sha256": "ecfdc8161fdee90df7a8ccb2c1d36ed66a87ffc51fc7dc7336a116b204728021",
+   "subject": "15"
   },
   {
    "file": "P15/S2/eeg/alldata_sbj15_sess2_MATBdiff.set",
    "bytes": 18607272,
-   "sha256": "57c081faf33dc4e183b0a5138d600e246a65a5bf74371d9b7fa359b86a42d438"
+   "sha256": "57c081faf33dc4e183b0a5138d600e246a65a5bf74371d9b7fa359b86a42d438",
+   "subject": "15"
   },
   {
    "file": "P15/S2/eeg/alldata_sbj15_sess2_MATBeasy.set",
    "bytes": 18607272,
-   "sha256": "d6c832526fc4343524408d5f369e0387f709a680517dec8cb36866ac274a9cbe"
+   "sha256": "d6c832526fc4343524408d5f369e0387f709a680517dec8cb36866ac274a9cbe",
+   "subject": "15"
   },
   {
    "file": "P15/S2/eeg/alldata_sbj15_sess2_MATBmed.set",
    "bytes": 18607272,
-   "sha256": "b1d79efa2db8258f145228b4c77654c3524d37b1957a67949b62c1938ab2626c"
+   "sha256": "b1d79efa2db8258f145228b4c77654c3524d37b1957a67949b62c1938ab2626c",
+   "subject": "15"
   },
   {
    "file": "P15/S2/eeg/alldata_sbj15_sess2_RS.set",
    "bytes": 4004528,
-   "sha256": "ce6bb5abbc36d1b96a3ace7e84f4c351d1baba8322ab867c41ca6657b7c89a67"
+   "sha256": "ce6bb5abbc36d1b96a3ace7e84f4c351d1baba8322ab867c41ca6657b7c89a67",
+   "subject": "15"
   },
   {
    "file": "P15/S2/eeg/alldata_sbj15_sess2_RSraw.set",
    "bytes": 7823320,
-   "sha256": "d9b612e0835ecebe69c4cf11ef1c0ed433794896010d9dfc56a0209a02c1aa96"
+   "sha256": "d9b612e0835ecebe69c4cf11ef1c0ed433794896010d9dfc56a0209a02c1aa96",
+   "subject": "15"
   },
   {
    "file": "P15/S2/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "2fedf2141b0b4fbbc6e3ed0d5931d315879ad5bb9e24ea6d4242ae8f4d3c8ae1"
+   "sha256": "2fedf2141b0b4fbbc6e3ed0d5931d315879ad5bb9e24ea6d4242ae8f4d3c8ae1",
+   "subject": "15"
   },
   {
    "file": "P15/S3/eeg/alldata_sbj15_sess3_RS.set",
    "bytes": 3985504,
-   "sha256": "58782dde0d937283812590f569254361980259eb01a25369aceff97d4aa77159"
+   "sha256": "58782dde0d937283812590f569254361980259eb01a25369aceff97d4aa77159",
+   "subject": "15"
   },
   {
    "file": "P15/S3/eeg/alldata_sbj15_sess3_RSraw.set",
    "bytes": 7804544,
-   "sha256": "bdb9d73e7df3ea0d50d232f1178609590dd04b4cb344da63fcb8df662564ece1"
+   "sha256": "bdb9d73e7df3ea0d50d232f1178609590dd04b4cb344da63fcb8df662564ece1",
+   "subject": "15"
   },
   {
    "file": "P15/S3/eeg/testset_sbj15_sess3.set",
    "bytes": 55139992,
-   "sha256": "c0d908e54af6dd4c8da85c067324a234ded1a382be2bf14e8a15c47bff2104f2"
+   "sha256": "c0d908e54af6dd4c8da85c067324a234ded1a382be2bf14e8a15c47bff2104f2",
+   "subject": "15"
   },
   {
    "file": "P15/S3/electrode_positions/get_chanlocs.txt",
    "bytes": 2479,
-   "sha256": "ace58f72bcd413107acd2f8cd7390d3312509035264c3e69971b0b97db164005"
+   "sha256": "ace58f72bcd413107acd2f8cd7390d3312509035264c3e69971b0b97db164005",
+   "subject": "15"
   }
- ]
+ ],
+ "n_subjects_recorded": 15
 }
