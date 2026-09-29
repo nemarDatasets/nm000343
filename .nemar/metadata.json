@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Hinss et al. 2021 — Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
-  "description": "This open-access EEG dataset comprises multi-session, multi-task recordings from 15 healthy participants performing resting state and graded cognitive tasks (easy, medium, difficult) using the MATB-II paradigm. Acquired with 62-channel EEG at 500 Hz sampling rate, the dataset is designed for passive brain-computer interface applications and neuroergonomic research, particularly mental workload estimation. The dataset includes 90 trials per participant across two sessions in raw, unpreprocessed format.",
-  "methods_description": "EEG data were acquired from 15 healthy participants (mean age 23.9 years) using a 62-channel ActiCHamp system (Brain Products GmbH) at 500 Hz sampling rate with active Ag/AgCl sensors referenced to Fpz. The standard 10-20 montage was employed with impedance maintained below 25 kOhm. Participants completed two sessions involving resting state and three difficulty levels of the MATB-II task (easy, medium, difficult), yielding 90 trials total per participant. Trial intervals were set to [0, 2] seconds with a 50 Hz line frequency. Data are provided in raw, unpreprocessed format.",
+  "description": "This dataset contains multi-session EEG recordings from 15 healthy participants performing a resting-state condition and the MATB-II multitasking paradigm at three difficulty levels (easy, medium, difficult). It was designed for passive brain-computer interface research, particularly cross-session and cross-subject mental workload estimation in neuroergonomics. Data were recorded with a 62-channel active-electrode system at 500 Hz and are provided in BIDS format via MOABB.",
+  "methods_description": "EEG was recorded at 500 Hz from 62 active Ag/AgCl electrodes (ActiCHamp, Brain Products) placed according to the 10-20 system, referenced to Fpz, with an additional ECG channel. Impedances were kept below 25 kOhm. Each of two sessions per participant included resting state and MATB-II task blocks of easy, medium and difficult levels.",
   "license": "CC-BY-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -21,27 +21,24 @@
       "term": "EEG"
     },
     {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+      "term": "passive brain-computer interface"
     },
     {
-      "term": "cognitive workload"
+      "term": "mental workload"
     },
     {
       "term": "neuroergonomics"
     },
     {
-      "term": "mental workload estimation"
-    },
-    {
       "term": "resting state"
     },
     {
-      "term": "passive BCI"
+      "term": "MATB-II"
     },
     {
-      "term": "MATB-II"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     }
   ],
   "related_identifiers": [
@@ -53,7 +50,7 @@
     {
       "identifier": "10.5281/zenodo.6874128",
       "identifier_type": "DOI",
-      "relation_type": "References"
+      "relation_type": "IsDerivedFrom"
     },
     {
       "identifier": "https://github.com/nemarDatasets/nm000343",
@@ -82,10 +79,6 @@
     },
     {
       "funder_name": "ANITI (Artificial and Natural Intelligence Toulouse Institute)"
-    },
-    {
-      "funder_name": "ANITI",
-      "award_title": "Artificial and Natural Intelligence Toulouse Institute"
     }
   ],
   "resource_type_general": "Dataset",
@@ -94,7 +87,7 @@
     "eeg"
   ],
   "sizes": [
-    "4.3 GB (226 files)"
+    "4.04 GB (226 files)"
   ],
   "formats": [
     ".bdf",
