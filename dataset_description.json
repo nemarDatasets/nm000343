@@ -30,7 +30,7 @@
       "CodeURL": "https://github.com/NeuroTechX/moabb",
       "Name": "moabb",
       "Description": "Mother of All BCI Benchmarks",
-      "Version": "1.5.0"
+      "Version": "1.8.0 (develop 723cca6fe + fix/braindecode-loader-663, NeuroTechX/moabb#1270)"
     }
   ],
   "SourceDatasets": [
@@ -51,5 +51,5 @@
     "mental_workload_estimation"
   ],
   "PublicationYear": 2023,
-  "Version": "1.0.3"
+  "Version": "1.1.0"
 }
