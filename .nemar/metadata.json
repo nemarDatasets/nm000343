@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "Hinss et al. 2021 — Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
-  "description": "This dataset contains multi-session EEG recordings from 15 healthy participants performing a resting-state condition and the MATB-II multitasking paradigm at three difficulty levels (easy, medium, difficult). It was designed for passive brain-computer interface research, particularly cross-session and cross-subject mental workload estimation in neuroergonomics. Data were recorded with a 62-channel active-electrode system at 500 Hz and are provided in BIDS format via MOABB.",
-  "methods_description": "EEG was recorded at 500 Hz from 62 active Ag/AgCl electrodes (ActiCHamp, Brain Products) placed according to the 10-20 system, referenced to Fpz, with an additional ECG channel. Impedances were kept below 25 kOhm. Each of two sessions per participant included resting state and MATB-II task blocks of easy, medium and difficult levels.",
+  "description": "This dataset provides multi-session, multi-task EEG recordings from 15 healthy participants for passive brain-computer interface research on mental workload estimation. Each participant completed two sessions with a resting-state condition and three difficulty levels (easy, medium, difficult) of the MATB-II task. Data were recorded with 62 active Ag/AgCl EEG electrodes and ECG, and are distributed here as a BIDS-formatted derivative generated with MOABB.",
+  "methods_description": "EEG was recorded with an ActiCHamp amplifier (Brain Products) using 62 active Ag/AgCl electrodes in a 10-20 layout, referenced to Fpz, with an impedance threshold of 25 kOhm and an auxiliary ECG channel. Participants performed resting-state and MATB-II tasks at three difficulty levels across two sessions. Released epochs are 2 s long at 250 Hz.",
   "license": "CC-BY-SA-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -33,12 +33,9 @@
       "term": "resting state"
     },
     {
-      "term": "MATB-II"
-    },
-    {
-      "term": "Electroencephalography",
+      "term": "Brain-Computer Interfaces",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     }
   ],
   "related_identifiers": [
@@ -87,7 +84,7 @@
     "eeg"
   ],
   "sizes": [
-    "4.04 GB (226 files)"
+    "5.26 GB (256 files)"
   ],
   "formats": [
     ".bdf",
@@ -99,5 +96,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "356452477f0198c93e24527eeeb69805d94c3d26280a0f9edcf1f01c81d6af94"
+  "source_hash": "2de6ded7cdb751cc9f5cb896710967af5d7916638ca83733f9f43f001be6e1fa"
 }
