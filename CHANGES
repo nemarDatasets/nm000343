@@ -1,0 +1,11 @@
+1.1.0 2026-10-14
+  - Regenerated all BIDS recordings with the corrected MOABB Hinss2021 loader
+    (https://github.com/NeuroTechX/moabb/pull/1270, issue
+    https://github.com/NeuroTechX/moabb/issues/663). Sampling rate 500 Hz ->
+    250 Hz (the true rate of the released epochs), so durations double
+    (477 s -> 954 s per session file) and frequencies halve; events now start
+    on the first sample of each released 2 s epoch (duration 1.996 s), all
+    477 per session. Sample values, channels and labels unchanged.
+  - README regenerated from the corrected loader metadata (trial interval
+    [0, 1.996] s, downsampled to 250 Hz); code/Hinss2021.metadata.yaml updated.
+  - sourcedata/ unchanged.

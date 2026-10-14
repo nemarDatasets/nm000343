@@ -4,7 +4,7 @@ _dataset:
   doi: 10.1038/s41597-022-01898-y
   interval:
   - 0
-  - 2
+  - 1.996
   n_subjects: 15
   paradigm: rstate
 acquisition:
@@ -17,7 +17,6 @@ acquisition:
   impedance_threshold_kohm: 25
   line_freq: 50.0
   montage: standard_1020
-  n_channels: 62
   reference: Fpz
   sampling_rate: 500.0
   sensor_type: active Ag/AgCl
@@ -159,6 +158,7 @@ performance:
   accuracy_percent: 70.67
 preprocessing:
   data_state: raw
+  downsampled_to_hz: 250.0
 runs_per_session: 1
 sessions_per_subject: 2
 signal_processing:
